@@ -1,0 +1,96 @@
+---
+title: "Cancer increase in young adults?"
+description: "Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019"
+author:
+  - name: Gorka Navarrete
+    url: https://MYWEBSITE/
+    orcid: 0000-0001-7678-8656
+    affiliation: Adjunt professor, UAI
+date: 2023-09-27
+categories: [Cancer, Bayes] # self-defined categories
+citation: 
+  url: https://MYwebsite/posts/2023-09-27-incidence_mortality/ 
+image: preview_image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+```{r, echo=FALSE}
+poblacion_2019 = 7764951032
+poblacion_99 = 5316175862
+crecimiento_incidencia = 1.79
+crecimiento_mortalidad = 1.277
+
+incidencia_2019 = 3260000
+mortalidad_2019 = 1060000
+
+incidencia_99 = round(incidencia_2019/crecimiento_incidencia, 0)
+mortalidad_99 = round(mortalidad_2019/crecimiento_mortalidad, 0)
+
+
+cambio_incidencia = (incidencia_2019/poblacion_2019) / (incidencia_99/poblacion_99)
+
+cambio_mortalidad = (mortalidad_2019/poblacion_2019) / (mortalidad_99/poblacion_99)
+
+# cambio_incidencia
+# cambio_mortalidad
+
+
+```
+
+A recent [BMJ Oncology paper](https://bmjoncology.bmj.com/content/2/1/e000049) reported that "Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.".
+
+Those are stagering numbers, so let's take a look at how they make their calculations.
+
+## Incidence
+
+In page 3, they state: "In 2019, the incidence number of early-onset cancer was 3.26 million, a 79.1% increase from 1990".
+
+So, they are using the absolute number of early-onset cancers in 2019 (`r prettyNum(incidencia_2019, big.mark=",", scientific=FALSE)`) and comparing it with the 1999 number (`r prettyNum(incidencia_99, big.mark=",", scientific=FALSE)`).
+
+If you calculate the increase, it really gives you a `r scales::label_percent(accuracy = 1)(incidencia_2019/incidencia_99 - 1)` = `r prettyNum(incidencia_2019, big.mark=",", scientific=FALSE)` / `r prettyNum(incidencia_99, big.mark=",", scientific=FALSE)`.
+
+## Deaths
+
+Also in page 3: "Besides, the number of early-onset cancer deaths in 2019 was 1.06 million, which was an increase of 27.7% from 1990".
+
+Again, they are using the absolute number of early-onset cancer deaths in 2019 (`r prettyNum(mortalidad_2019, big.mark=",", scientific=FALSE)`) and comparing it with the 1999 number (`r prettyNum(mortalidad_99, big.mark=",", scientific=FALSE)`).
+
+If you calculate the increase, it gives you a `r scales::label_percent(accuracy = 1)(mortalidad_2019/mortalidad_99 - 1)` = `r prettyNum(mortalidad_2019, big.mark=",", scientific=FALSE)` / `r prettyNum(mortalidad_99, big.mark=",", scientific=FALSE)`.
+
+## Context
+
+The human population grew quite a bit in the last 30 years. According to [worldometers](https://www.worldometers.info/world-population/world-population-by-year/), it was `r prettyNum(poblacion_99, big.mark=",", scientific=FALSE)` in 1999 and increased to (`r prettyNum(poblacion_2019, big.mark=",", scientific=FALSE)`) in 2019. That is a `r scales::label_percent()(poblacion_2019/poblacion_99 -1)` increase.
+
+Something I do not understand well is that in the paper, the authors talk about incidence, which is usually defined as a ["measure of the probability of occurrence of a given medical condition in a population within a specified period of time"](https://en.wikipedia.org/wiki/Incidence_(epidemiology)), but give an absolute number: "In 2019, the incidence number of early-onset cancer was 3.26 million, (...)".
+
+## Redoing the calculations
+
+Instead of the absolute numbers, how many people got or died of an early-onset cancer, we can normalize those numbers, and make them relative to the population at that point in time.
+
+### Indicence
+
+For 2019, dividing the incidence number (`r prettyNum(incidencia_2019, big.mark=",", scientific=FALSE)`) and dividing by population (`r prettyNum(poblacion_2019, big.mark=",", scientific=FALSE)`) gives us `r scales::label_percent(accuracy = 0.001)(incidencia_2019/poblacion_2019)`. This is the % of the population with an early-onset cancer diagnosis in 2019.
+
+For 1999, dividing the incidence number (`r prettyNum(incidencia_99, big.mark=",", scientific=FALSE)`) and dividing by population (`r prettyNum(poblacion_99, big.mark=",", scientific=FALSE)`) gives us `r scales::label_percent(accuracy = 0.001)(incidencia_99/poblacion_99)`. This is the % of the population with an early-onset cancer diagnosis in 1999.
+
+Finally, if you calculate the increase: (`r prettyNum((incidencia_2019/poblacion_2019), big.mark=",", scientific=FALSE)` / `r prettyNum((incidencia_99/poblacion_99), big.mark=",", scientific=FALSE)`), we get a `r scales::label_percent(accuracy = 0.001)(cambio_incidencia - 1)`. This is an increase of 22.5% in 'incidence' between 1999 and 2019.
+
+### Mortality
+
+For 2019, dividing the mortality number (`r prettyNum(mortalidad_2019, big.mark=",", scientific=FALSE)`) and dividing by population (`r prettyNum(poblacion_2019, big.mark=",", scientific=FALSE)`) gives us `r scales::label_percent(accuracy = 0.001)(mortalidad_2019/poblacion_2019)`. This is the % of the population that died of an early-onset cancer in 2019.
+
+For 1999, dividing the mortality number (`r prettyNum(mortalidad_99, big.mark=",", scientific=FALSE)`) and dividing by population (`r prettyNum(poblacion_99, big.mark=",", scientific=FALSE)`) gives us `r scales::label_percent(accuracy = 0.001)(mortalidad_99/poblacion_99)`. This is the % of the population that died of an early-onset cancer in 1999.
+
+If you calculate the increase: `r prettyNum((mortalidad_2019/poblacion_2019), big.mark=",", scientific=FALSE)` / `r prettyNum((mortalidad_99/poblacion_99), big.mark=",", scientific=FALSE)` , we get a `r scales::label_percent(accuracy = 0.001)(cambio_mortalidad - 1)` . This is a **reduction** of 12% in mortality between 1999 and 2019.
+
+## Conclussions
+
+First of all, I might be missunderstaing something or making a mistake here. I would be very happy to correct it.
+
+Assuming the logic above is reasonable, we go from the reported 79% increase in 'incidence' to an increase of `r scales::label_percent(accuracy = 0.1)(cambio_incidencia - 1)`. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.
+
+For deaths, we go from the reported 27% increase to a **decrease** of `r scales::label_percent(accuracy = 0.1)(cambio_mortalidad - 1)`. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years.
+
+## References
+
+Zhao J, Xu L, Sun J, et al Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019 BMJ Oncology 2023;2:e000049. doi: 10.1136/bmjonc-2023-000049

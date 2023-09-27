@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Gorka Navarrete"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - posts.qmd
+      - publications.qmd
+      - teaching.qmd
+      - presentations.qmd
+      - jspsychr.qmd
+      - bayesianreasoning.qmd
+      - about.qmd
+  page-footer: 
+    left: 'Gorka Navarrete. Contact me at <a href = "https://fosstodon.org/@gorkang">@gorkang</a> or gorkang at gmail'
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

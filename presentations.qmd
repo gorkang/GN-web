@@ -1,0 +1,26 @@
+---
+title: "Presentations"
+---
+
+
+See [https://github.com/gorkang/presentations](https://github.com/gorkang/presentations) for the full presentations.
+
+
+---  
+
+## Prevalence and Positive Predictive Value [Adopt an Unicorn edition]
+
+Download presentation: [PDF](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-PPV.pdf) - [ODP](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-PPV.odp)  
+
+![](https://github.com/gorkang/presentations/raw/master/docs/Prevalence-PPV.png)
+
+---  
+
+
+## Prevalence and Negative Predictive Value [diagnostic versus screening edition]
+
+Download presentation: [PDF](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-NPV.pdf) - [ODP](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-NPV.odp)  
+
+![](https://github.com/gorkang/presentations/raw/master/docs/Prevalence-NPV.png)
+
+---  

@@ -1,0 +1,11 @@
+---
+title: "Bayesian Reasoning"
+---
+
+A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.
+
+<https://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html>
+
+<https://github.com/gorkang/BayesianReasoning>
+
+![](img/BayesianReasoning.png)

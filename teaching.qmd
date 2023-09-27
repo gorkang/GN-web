@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## R para preparación y visualización de datos [SP]
+
+Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.
+
+El objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.
+
+Al finalizar el curso deberíamos ser capaces de:
+
+- Importar archivos de datos, transformar los datos, crear nuevas variables.
+- Realizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.
+- Generar reportes reproducibles con RMarkdown.
+
+
+Puedes acceder aquí a los [materiales completos del curso](https://github.com/gorkang/R_preparacion_visualizacion_datos).

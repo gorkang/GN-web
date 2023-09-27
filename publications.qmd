@@ -1,0 +1,66 @@
+---
+title: "Publications"
+author: "Gorka Navarrete"
+---
+
+
+This list of publications has been automagically generated on `r Sys.Date()` using the {[rorcid](https://github.com/ropensci/rorcid)} package and a bit of R code. You can directly check my [ORCID profile](https://orcid.org/0000-0001-7678-8656).  
+
+---
+
+```{r setup, include=FALSE}
+
+library(dplyr)
+library(purrr)
+
+knitr::opts_chunk$set(echo = FALSE)
+DF = rorcid::orcid_works("0000-0001-7678-8656")
+
+DF_publications_raw = rorcid::orcid_works(orcid = "0000-0001-7678-8656", put_code = DF$`0000-0001-7678-8656`$works$`put-code`)
+
+authors = 1:length(DF_publications_raw$`0000-0001-7678-8656`$works$work.contributors.contributor) %>% 
+           purrr::map(~ DF_publications_raw$`0000-0001-7678-8656`$works$work.contributors.contributor[[.x]]$`credit-name.value` %>% paste(., collapse = ", ")) %>% 
+           unlist() %>% as_tibble() %>% rename(authors = value)
+
+DF_publications = 
+  DF_publications_raw$`0000-0001-7678-8656`$works %>% 
+  bind_cols(authors) |> 
+  arrange(desc(`work.publication-date.year.value`))
+
+```
+
+
+```{r, results='asis'}
+
+show_paper <- function(DF) {
+      paste0("- ", 
+          gsub("(.*)(Navarrete)(.*)", "\\1**\\2**\\3", DF$authors), " (",
+          DF$`work.publication-date.year.value`, "). ",
+          DF$`work.title.title.value`, ", ",
+          "*", DF$`work.journal-title.value`, "*. ",
+          "[", DF$work.url.value, "](",
+          DF$work.url.value, ")",
+          "  \n\n")
+}
+
+years_pubs = sort(unique(DF_publications$`work.publication-date.year.value`), decreasing = TRUE)
+
+
+
+list_PUBS = 1:length(years_pubs) |> 
+  map(~{
+    
+    OUT = paste0("\n## ", years_pubs[.x], "\n")
+    
+    DF = 
+      DF_publications |> 
+      filter(DF_publications$`work.publication-date.year.value` == years_pubs[.x])
+    
+    OUT = c(OUT, 
+            1:nrow(DF) |> map_chr(~ show_paper(DF[.x,]))
+            )
+      
+  })
+
+cat(list_PUBS |> unlist())
+```
