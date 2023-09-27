@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "jspsychr.html",
+    "href": "jspsychr.html",
+    "title": "jsPsychR",
+    "section": "",
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "There will be some content here… hopefully below\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCancer increase in young adults?\n\n\n\nCancer\n\n\nBayes\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\nGorka Navarrete\n\n\nSep 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\njsPsychR\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\nGorka Navarrete\n\n\nFeb 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gorka Navarrete",
+    "section": "",
+    "text": "My main research focus is related to Bayesian reasoning, risk communication and decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher’s life easier. See some of it in my Github profile."
+  },
+  {
+    "objectID": "bayesianreasoning.html",
+    "href": "bayesianreasoning.html",
+    "title": "Bayesian Reasoning",
+    "section": "",
+    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "See https://github.com/gorkang/presentations for the full presentations."
+  },
+  {
+    "objectID": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "href": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]",
+    "text": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]\nDownload presentation: PDF - ODP"
+  },
+  {
+    "objectID": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "href": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]",
+    "text": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]\nDownload presentation: PDF - ODP"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Code for the website and projects available in Github"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This list of publications has been automagically generated on 2023-09-27 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nVartanian, O., Lam, T.K., Mandel, D.R., Ann Saint, S., Navarrete, G., Carmichael, O.T., Murray, K., Pillai, S.R., Shankapal, P., Caldwell, J., Berryman, C.E., Karl, J.P., Harris, M., Rood, J.C., Pasiakos, S.M., Rice, E., Duncan, M., Lieberman, H.R. (2023). Effect of exogenous testosterone in the context of energy deficit on risky choice: Behavioural and neural evidence from males, Biological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85143864299&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2022). Differences in regional gray matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, Annals of the New York Academy of Sciences. http://www.scopus.com/inward/record.url?eid=2-s2.0-85123814019&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2022). A Recurring Nightmare: Risk and Protective Factors for Revictimization of Child Sexual Abuse in Chile, Journal of Child Sexual Abuse. http://www.scopus.com/inward/record.url?eid=2-s2.0-85124885806&partnerID=MN8TOARS\nDafina Petrova, Guiliana Ubillus, Gorka Navarrete, Tania Rodríguez, Pedro Ortiz, Rocio Garcia-Retamero (2022). Cancer Screening Risk Literacy of Physicians in Training (Supplementary documentation), Open Science Framework. NA\nAlejandra Neely-Prado, Gorka Navarrete, Michiel van Elk, David Artigas (2022). Social adaptation in context: the differential role of religiosity and self- esteem in vulnerable vs non-vulnerable populations, Open Science Framework. NA"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nOshin Vartanian, Gorka Navarrete, Letizia Palumbo, Anjan Chatterjee (2021). Individual differences in preference for architectural interiors, Journal of Environmental Psychology. https://doi.org/10.1016/j.jenvp.2021.101668\nVartanian, O., Navarrete, G., Palumbo, L., Chatterjee, A. (2021). Individual differences in preference for architectural interiors, Journal of Environmental Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85112234193&partnerID=MN8TOARS\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2021). Differences in regional grey matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, bioRxiv. http://www.scopus.com/inward/record.url?eid=2-s2.0-85105425187&partnerID=MN8TOARS\nNeely-Prado, A., van Elk, M., Navarrete, G., Hola, F., Huepe, D. (2021). Social Adaptation in Context: The Differential Role of Religiosity and Self-Esteem in Vulnerable vs. Non-vulnerable Populations – A Registered Report Study, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85120866461&partnerID=MN8TOARS\nMarie Juanchich, Miroslav Sirota, Gorka Navarrete (2021). When intuitive Bayesians need to be good readers: The problem-wording effect on Bayesian reasoning, Open Science Framework. NA"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nIbanez, A., Santamaria-Garcia, H., Barragan, A.G., Kornhuber, A., Ton, A.M.M., Slachevsky, A., Teixeira, A.L., Meza, B.M.M., Serrano, C.M., Cano, C., Gonzalez, C.A., Gonzalez-Billault, C., Butler, C., Bustin, J., Duran-Aniotz, C., Acosta, D., Matallana, D.L., Acosta-Alvear, D., Trépel, D., Resende, E.D.P.F., de Oliveira, F.F., Ibanez, F., De Felice, F.G., Navarrete, G., Tarnanas, I., Meier, I.B., Smid, J., Llibre-Guerra, J., Llibre-Rodriguez, J.J., Fajersztajn, L., Takada, L.T., Duque, L., de Oliveira, M.O., Bicalho, M.A.C., Behrens, M.I., Pintado-Caipa, M., Parra, M., Wilson, M.Z., De La CruPuebla, M., Custodio, N., Santibanez, R., Serafim, R.B., Tavares, R.M., Escudero, S.D.P., Rodriguez, T.L., Dawson, W., Miller, B.L., Kosik, K.S. (2020). The impact of sars-cov-2 in dementia across latin america: A call for an urgent regional plan and coordinated response, Alzheimer’s and Dementia: Translational Research and Clinical Interventions. http://www.scopus.com/inward/record.url?eid=2-s2.0-85101739367&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2020). Magnitude and characteristics of revictimization through child sexual abuse in Chile, Legal and Criminological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85074329600&partnerID=MN8TOARS\nCoburn, A., Vartanian, O., Kenett, Y.N., Nadal, M., Hartung, F., Hayn-Leichsenring, G., Navarrete, G., González-Mora, J.L., Chatterjee, A. (2020). Psychological and neural responses to architectural interiors, Cortex. http://www.scopus.com/inward/record.url?eid=2-s2.0-85079695640&partnerID=MN8TOARS\n(2020). BayesianReasoning: Plot Positive and Negative Predictive Values for Medical Tests, NA. https://CRAN.R-project.org/package=BayesianReasoning"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Rostrup, N., Skov, M., Corradi, G., Nadal, M. (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts, Psychology of Aesthetics, Creativity, and the Arts. http://www.scopus.com/inward/record.url?eid=2-s2.0-85038242354&partnerID=MN8TOARS\nPetrova, D., Mas, G., Navarrete, G., Rodriguez, T.T., Ortiz, P.J., Garcia-Retamero, R. (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069268906&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G., Dieckmann, N., Nelson, J. (2019). Editorial: Judgment and decision making under uncertainty: Descriptive, normative, and prescriptive perspectives, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069513921&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Nicolle, A., González-Mora, J.L., Smith, K.W., Marling, M., Goel, V. (2019). Developmental grey matter changes in superior parietal cortex accompany improved transitive reasoning, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-85054359950&partnerID=MN8TOARS\nAlejandra Neely-Prado, Yuka Kotozaki, Gorka Navarrete, David Huepe (2019). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLOS ONE. https://doi.org/10.1371/journal.pone.0218236\nDafina Petrova, Guiliana Mas, Gorka Navarrete, Tania Tello Rodriguez, Pedro J. Ortiz, Rocio Garcia-Retamero, Valerio Capraro (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLOS ONE. NA\nMandel DR, Navarrete G, Dieckmann N, Nelson J (2019). Editorial: Judgment and Decision Making Under Uncertainty: Descriptive, Normative, and Prescriptive Perspectives., Frontiers in psychology. http://europepmc.org/abstract/med/31312160\nOshin Vartanian, Gorka Navarrete, Anjan Chatterjee, Lars Brorson Fich, Helmut Leder, Cristián Modroño, Nicolai Rostrup, Martin Skov, Guido Corradi, Marcos Nadal (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts., Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000150"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nNeely-Prado, A., Navarrete, G., Huepe, D. (2018). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85067402501&partnerID=MN8TOARS\nMoshontz, H., Campbell, L., Ebersole, C.R., Ijzerman, H., Urry, H.L., Forscher, P.S., Grahe, J.E., McCarthy, R.J., Musser, E.D., Antfolk, J., Castille, C.M., Evans, T.R., Fiedler, S., Flake, J.K., Forero, D.A., Janssen, S.M.J., Keene, J.R., Protzko, J., Aczel, B., Solas, S.Á., Ansari, D., Awlia, D., Baskin, E., Batres, C., Borras-Guevara, M.L., Brick, C., Chandel, P., Chatard, A., Chopik, W.J., Clarance, D., Coles, N.A., Corker, K.S., Dixson, B.J.W., Dranseika, V., Dunham, Y., Fox, N.W., Gardiner, G., Garrison, S.M., Gill, T., Hahn, A.C., Jaeger, B., Kačmár, P., Kaminski, G., Kanske, P., Kekecs, Z., Kline, M., Koehn, M.A., Kujur, P., Levitan, C.A., Miller, J.K., Okan, C., Olsen, J., Oviedo-Trespalacios, O., Özdoğru, A.A., Pande, B., Parganiha, A., Parveen, N., Pfuhl, G., Pradhan, S., Ropovik, I., Rule, N.O., Saunders, B., Schei, V., Schmidt, K., Singh, M.M., Sirota, M., Steltenpohl, C.N., Stieger, S., Storage, D., Sullivan, G.B., Szabelska, A., Tamnes, C.K., Vadillo, M.A., Valentova, J.V., Vanpaemel, W., Varella, M.A.C., Vergauwe, E., Verschoor, M., Vianello, M., Voracek, M., Williams, G.P., Wilson, J.P., Zickfeld, J.H., Arnal, J.D., Aydin, B., Chen, S.-C., Debruine, L.M., Fernandez, A.M., Horstmann, K.T., Isager, P.M., Jones, B., Kapucu, A., Lin, H., Mensink, M.C., Navarrete, G., Silan, M.A., Chartier, C.R. (2018). The psychological science accelerator: Advancing psychology through a distributed collaborative network, Advances in Methods and Practices in Psychological Science. http://www.scopus.com/inward/record.url?eid=2-s2.0-85116778122&partnerID=MN8TOARS\n(2018). The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network, Advances in Methods and Practices in Psychological Science. http://dx.doi.org/10.1177/2515245918797607"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nGoel, V., Navarrete, G., Noveck, I.A., Prado, J. (2017). Editorial: The reasoning brain: The interplay between cognitive neuroscience and theories of reasoning, Frontiers in Human Neuroscience. http://www.scopus.com/inward/record.url?eid=2-s2.0-85010911769&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Sirota, M., Juanchich, M., Huepe, D. (2017). Doctor, what does my positive test mean? From Bayesian textbook tasks to personalized risk communication, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954217464&partnerID=MN8TOARS\nCorreia, R., Navarrete, G. (2017). Social cognition and executive functions as key factors for effective pedagogy in higher education, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85034645858&partnerID=MN8TOARS\nAlonso Ortega, Gorka Navarrete (2017). Bayesian Hypothesis Testing: An Alternative to Null Hypothesis Significance Testing (NHST) in Psychology and Social Sciences, Bayesian Inference. NA"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nFumero, A., Navarrete, G. (2016). Personality and psychological distress: Application of a neural network model,Personalidad y Malestar Psicológico: Aplicación de un Modelo de Redes Neuronales, Revista Iberoamericana de Diagnostico y Evaluacion Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990852236&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nNavarrete, G., Santamaría, C., Froimovitch, D. (2015). Small samples and evolution: Did the law of small numbers arise as an adaptation to environmental challenges?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84926432662&partnerID=MN8TOARS\nModroño, C., Plata-Bello, J., Zelaya, F., García, S., Galván, I., Marcano, F., Navarrete, G., Casanova, O., Mas, M., González-Mora, J.L. (2015). Enhancing sensorimotor activity by controlling virtual objects with gaze, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-84925799189&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G. (2015). Editorial: Improving Bayesian reasoning: What works and why?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954204773&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Gonzalez-Mora, J.L., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2015). Architectural design and the brain: Effects of ceiling height and perceived enclosure on beauty judgments and approach-avoidance decisions, Journal of Environmental Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84911884414&partnerID=MN8TOARS\nModroño, C., Plata, J., Hernández, E., Galván, I., García, S., Zelaya, F., Marcano, F., Casanova, Ó., Navarrete, G., Mas, M., González-Mora, J.L. (2015). Enhancing brain activity by controlling virtual objects with the eye, Recent Advances on Using Virtual Reality Technologies for Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-85030252566&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nLillo-Unglaube, M., Canales-Johnson, A., Navarrete, G., Bravo, C.F. (2014). Toward an experimental account of argumentation: The case of the slippery slope and the ad hominem arguments, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923383078&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Froimovitch, D. (2014). Communicating risk in prenatal screening: The consequences of bayesian misapprehension, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923362087&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2014). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, In the Light of Evolution. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990990177&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nLesage, E., Navarrete, G., de Neys, W. (2013). Evolutionary modules and Bayesian facilitation: The role of general cognitive resources, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-84876119023&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modrono, C., Nadal, M., Rostrup, N., Skov, M. (2013). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, Proceedings of the National Academy of Sciences of the United States of America. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879302662&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activation of the human mirror neuron system during the observation of the manipulation of virtual tools in the absence of a visible effector limb, Neuroscience Letters. http://www.scopus.com/inward/record.url?eid=2-s2.0-84886259877&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activating motor cortex by means of virtual tools, Journal of Cyber Therapy and Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-84901321505&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nOrenes, I., Navarrete, G., Beltrán, D., Santamaría, C. (2012). Schizotypal people stick longer to their first choices, Psychiatry Research. http://www.scopus.com/inward/record.url?eid=2-s2.0-84872401714&partnerID=MN8TOARS\nNavarrete, G., Santamaría, C. (2012). Adding possibilities can reduce the Gambler’s Fallacy: A naïve-probability paradox, Journal of Cognitive Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84861325676&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-12",
+    "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nNavarrete, G., Santamaría, C. (2011). Ecological rationality and evolution: the mind really works that way?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84867118667&partnerID=MN8TOARS\nModroño, C., Rodríguez-Hernández, A.F., Marcano, F., Navarrete, G., Burunat, E., Ferrer, M., Monserrat, R., González-Mora, J.L. (2011). A low cost fMRI-compatible tracking system using the Nintendo Wii remote, Journal of Neuroscience Methods. http://www.scopus.com/inward/record.url?eid=2-s2.0-81055156319&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\n\nRodríguez-Hernández, A.F., Merino, C., Casanova, O., Modrono, C., Torres, M.Á., Montserrat, R., Navarrete, G., Burunat, E., González-Mora, J.L. (2010). Sensory substitution for visually disabled people: Computer solutions, WSEAS Transactions on Biology and Biomedicine. http://www.scopus.com/inward/record.url?eid=2-s2.0-77950406568&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-14",
+    "href": "publications.html#section-14",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\n\nFumero, A., Navarrete, G., Santamaría, C. (2009). La implicación de la confienza interpersonal en los trastornos de la personalidad, Revista Argentina de Clinica Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-70349660268&partnerID=MN8TOARS\nFumero Hernández, A., Santamaría, C., Navarrete, G. (2009). Predisposition to alcohol and drug consumption in schizophrenia-vulnerable people,Predisposición al consumo de alcohol y drogas en personas vulnerables a la esquizofrenia, Revista de Neurologia. http://www.scopus.com/inward/record.url?eid=2-s2.0-69349091702&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-15",
+    "href": "publications.html#section-15",
+    "title": "Publications",
+    "section": "2003",
+    "text": "2003\n\nRomero, E., Sopena, J.M., Navarrete, G., Alquézar, R. (2003). Feature Selection Forcing Overtraining May Help to Improve Performance, Proceedings of the International Joint Conference on Neural Networks. http://www.scopus.com/inward/record.url?eid=2-s2.0-0141857584&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html",
+    "href": "posts/2023-02-03-jsPsychR/index.html",
+    "title": "jsPsychR",
+    "section": "",
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\n\n\n\nCitationBibTeX citation:@online{navarrete2023,\n  author = {Navarrete, Gorka},\n  title = {jsPsychR},\n  date = {2023-02-03},\n  url = {https://MYwebsite/posts/2023-02-03-jsPsychR/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNavarrete, Gorka. 2023. “jsPsychR.” February 3, 2023. https://MYwebsite/posts/2023-02-03-jsPsychR/."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html",
+    "href": "posts/2023-09-27-incidence_mortality/index.html",
+    "title": "Cancer increase in young adults?",
+    "section": "",
+    "text": "A recent BMJ Oncology paper reported that “Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.”.\nThose are stagering numbers, so let’s take a look at how they make their calculations."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#incidence",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#incidence",
+    "title": "Cancer increase in young adults?",
+    "section": "Incidence",
+    "text": "Incidence\nIn page 3, they state: “In 2019, the incidence number of early-onset cancer was 3.26 million, a 79.1% increase from 1990”.\nSo, they are using the absolute number of early-onset cancers in 2019 (3,260,000) and comparing it with the 1999 number (1,821,229).\nIf you calculate the increase, it really gives you a 79% = 3,260,000 / 1,821,229."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#deaths",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#deaths",
+    "title": "Cancer increase in young adults?",
+    "section": "Deaths",
+    "text": "Deaths\nAlso in page 3: “Besides, the number of early-onset cancer deaths in 2019 was 1.06 million, which was an increase of 27.7% from 1990”.\nAgain, they are using the absolute number of early-onset cancer deaths in 2019 (1,060,000) and comparing it with the 1999 number (830,070).\nIf you calculate the increase, it gives you a 28% = 1,060,000 / 830,070."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#context",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#context",
+    "title": "Cancer increase in young adults?",
+    "section": "Context",
+    "text": "Context\nThe human population grew quite a bit in the last 30 years. According to worldometers, it was 5,316,175,862 in 1999 and increased to (7,764,951,032) in 2019. That is a 46% increase.\nSomething I do not understand well is that in the paper, the authors talk about incidence, which is usually defined as a “measure of the probability of occurrence of a given medical condition in a population within a specified period of time”, but give an absolute number: “In 2019, the incidence number of early-onset cancer was 3.26 million, (…)”."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#redoing-the-calculations",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#redoing-the-calculations",
+    "title": "Cancer increase in young adults?",
+    "section": "Redoing the calculations",
+    "text": "Redoing the calculations\nInstead of the absolute numbers, how many people got or died of an early-onset cancer, we can normalize those numbers, and make them relative to the population at that point in time.\n\nIndicence\nFor 2019, dividing the incidence number (3,260,000) and dividing by population (7,764,951,032) gives us 0.042%. This is the % of the population with an early-onset cancer diagnosis in 2019.\nFor 1999, dividing the incidence number (1,821,229) and dividing by population (5,316,175,862) gives us 0.034%. This is the % of the population with an early-onset cancer diagnosis in 1999.\nFinally, if you calculate the increase: (0.0004198352 / 0.0003425825), we get a 22.550%. This is an increase of 22.5% in ‘incidence’ between 1999 and 2019.\n\n\nMortality\nFor 2019, dividing the mortality number (1,060,000) and dividing by population (7,764,951,032) gives us 0.014%. This is the % of the population that died of an early-onset cancer in 2019.\nFor 1999, dividing the mortality number (830,070) and dividing by population (5,316,175,862) gives us 0.016%. This is the % of the population that died of an early-onset cancer in 1999.\nIf you calculate the increase: 0.0001365108 / 0.0001561404 , we get a -12.572% . This is a reduction of 12% in mortality between 1999 and 2019."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#conclussions",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#conclussions",
+    "title": "Cancer increase in young adults?",
+    "section": "Conclussions",
+    "text": "Conclussions\nFirst of all, I might be missunderstaing something or making a mistake here. I would be very happy to correct it.\nAssuming the logic above is reasonable, we go from the reported 79% increase in ‘incidence’ to an increase of 22.6%. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.\nFor deaths, we go from the reported 27% increase to a decrease of -12.6%. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years."
+  },
+  {
+    "objectID": "posts/2023-09-27-incidence_mortality/index.html#references",
+    "href": "posts/2023-09-27-incidence_mortality/index.html#references",
+    "title": "Cancer increase in young adults?",
+    "section": "References",
+    "text": "References\nZhao J, Xu L, Sun J, et al Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019 BMJ Oncology 2023;2:e000049. doi: 10.1136/bmjonc-2023-000049"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+  },
+  {
+    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "title": "Teaching",
+    "section": "",
+    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+  }
+]
