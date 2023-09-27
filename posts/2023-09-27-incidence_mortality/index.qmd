@@ -3,13 +3,13 @@ title: "Cancer increase in young adults?"
 description: "Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019"
 author:
   - name: Gorka Navarrete
-    url: https://MYWEBSITE/
+    url: https://gorkang.github.io/GN-web/
     orcid: 0000-0001-7678-8656
     affiliation: Adjunt professor, UAI
 date: 2023-09-27
 categories: [Cancer, Bayes] # self-defined categories
 citation: 
-  url: https://MYwebsite/posts/2023-09-27-incidence_mortality/ 
+  url: https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/ 
 image: preview_image.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
