@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-J17YNM67JE"
   title: "Gorka Navarrete"
   navbar:
     left:
