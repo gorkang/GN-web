@@ -17,7 +17,7 @@ website:
       - bayesianreasoning.qmd
       - about.qmd
   page-footer: 
-    left: 'Gorka Navarrete. Contact me at <a href = "https://fosstodon.org/@gorkang">@gorkang</a> or gorkang at gmail'
+    left: 'Gorka Navarrete. Contact me at <a href = "https://fosstodon.org/@gorkang">\@gorkang</a> or gorkang at gmail'
 
 format:
   html:

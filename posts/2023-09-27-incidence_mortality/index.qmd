@@ -11,6 +11,7 @@ categories: [Cancer, Bayes] # self-defined categories
 citation: 
   url: https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/ 
 image: preview_image.png
+bibliography: bibliography.bib
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -37,7 +38,7 @@ cambio_mortalidad = (mortalidad_2019/poblacion_2019) / (mortalidad_99/poblacion_
 
 ```
 
-A recent [BMJ Oncology paper](https://bmjoncology.bmj.com/content/2/1/e000049) reported that "Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.".
+A recent [BMJ Oncology paper](https://bmjoncology.bmj.com/content/2/1/e000049) [@zhao2023b] reported that "Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.".
 
 Those are stagering numbers, so let's take a look at how they make their calculations.
 
@@ -91,7 +92,3 @@ First of all, I might be missunderstaing something or making a mistake here. I w
 Assuming the logic above is reasonable, we go from the reported 79% increase in 'incidence' to an increase of `r scales::label_percent(accuracy = 0.1)(cambio_incidencia - 1)`. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.
 
 For deaths, we go from the reported 27% increase to a **decrease** of `r scales::label_percent(accuracy = 0.1)(cambio_mortalidad - 1)`. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years.
-
-## References
-
-Zhao J, Xu L, Sun J, et al Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019 BMJ Oncology 2023;2:e000049. doi: 10.1136/bmjonc-2023-000049

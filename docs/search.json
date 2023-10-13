@@ -4,21 +4,49 @@
     "href": "jspsychr.html",
     "title": "jsPsychR",
     "section": "",
-    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker"
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\nYou can access the jsPsychRManual for more details about the different tools."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+    "text": "Cancer increase in young adults?\n\n\n\n\n\n\n\nCancer\n\n\nBayes\n\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\n\n\n\nSep 27, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\n  \n\n\n\n\njsPsychR\n\n\n\n\n\n\n\njsPsych\n\n\nMetascience\n\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\n\n\n\nFeb 3, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gorka Navarrete",
     "section": "",
-    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+    "text": "My main research focus is related to Bayesian reasoning, risk communication and decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
+  },
+  {
+    "objectID": "bayesianreasoning.html",
+    "href": "bayesianreasoning.html",
+    "title": "Bayesian Reasoning",
+    "section": "",
+    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "See https://github.com/gorkang/presentations for the full presentations."
+  },
+  {
+    "objectID": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "href": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]",
+    "text": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]\nDownload presentation: PDF - ODP"
+  },
+  {
+    "objectID": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "href": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]",
+    "text": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]\nDownload presentation: PDF - ODP"
   },
   {
     "objectID": "about.html",
@@ -28,18 +56,11 @@
     "text": "Code for the website and projects available in Github"
   },
   {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html",
-    "href": "posts/2023-02-03-jsPsychR/index.html",
-    "title": "jsPsychR",
-    "section": "",
-    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\n\n\n\nCitationBibTeX citation:@online{navarrete2023,\n  author = {Navarrete, Gorka},\n  title = {jsPsychR},\n  date = {2023-02-03},\n  url = {https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNavarrete, Gorka. 2023. “jsPsychR.” February 3, 2023. https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "This list of publications has been automagically generated on 2023-09-30 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile."
+    "text": "This list of publications has been automagically generated on 2023-10-13 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile."
   },
   {
     "objectID": "publications.html#section",
@@ -154,39 +175,32 @@
     "text": "2003\n\nRomero, E., Sopena, J.M., Navarrete, G., Alquézar, R. (2003). Feature Selection Forcing Overtraining May Help to Improve Performance, Proceedings of the International Joint Conference on Neural Networks. http://www.scopus.com/inward/record.url?eid=2-s2.0-0141857584&partnerID=MN8TOARS"
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "posts/2023-02-03-jsPsychR/index.html",
+    "href": "posts/2023-02-03-jsPsychR/index.html",
+    "title": "jsPsychR",
     "section": "",
-    "text": "See https://github.com/gorkang/presentations for the full presentations."
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier."
   },
   {
-    "objectID": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
-    "href": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
-    "title": "Presentations",
-    "section": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]",
-    "text": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]\nDownload presentation: PDF - ODP"
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "href": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "title": "jsPsychR",
+    "section": "Reproducible experiments",
+    "text": "Reproducible experiments\nWe use different technologies to develop experiments. Some examples are Psychopy, Qualtrics, Limesurvey, jsPsych, Gorilla, etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, …\nIn our lab, we opted for jsPsych to run behavioral experiments because it is an open source javascript library, based on standard web technologies, and can be used online and offline.\nIn the last years, we started working on a set of tools to help people without coding expertise to create jsPsych experimental protocols (jsPsychMaker), simulate participants (jspsychMonkeys) and standardize and automatize the data preparation and analysis (jsPsychHelpeR).\nOur final goal is to have a big catalog of tasks available to use in the jsPsychMaker repo. Each of the tasks should run with jspsychMonkeys to create virtual participants. And each task will have a sister script in jsPsychHelpeR to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.)."
   },
   {
-    "objectID": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
-    "href": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
-    "title": "Presentations",
-    "section": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]",
-    "text": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]\nDownload presentation: PDF - ODP"
-  },
-  {
-    "objectID": "bayesianreasoning.html",
-    "href": "bayesianreasoning.html",
-    "title": "Bayesian Reasoning",
-    "section": "",
-    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "href": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "title": "jsPsychR",
+    "section": "Open and reproducible pipeline",
+    "text": "Open and reproducible pipeline\nTo replicate an experimental protocol from a publication is not trivial. Obels et al. (2020) checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful (Lindsay 2023), this should be an unavoidable aspect of researcher’s work soon enough.\nFurthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.\nWith this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.\nThe system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a registered report and just relaunch the data preparation and analysis when the participant’s responses arrive, with a single command.\nAnd if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, we got you covered."
   },
   {
     "objectID": "posts/2023-09-27-incidence_mortality/index.html",
     "href": "posts/2023-09-27-incidence_mortality/index.html",
     "title": "Cancer increase in young adults?",
     "section": "",
-    "text": "A recent BMJ Oncology paper reported that “Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.”.\nThose are stagering numbers, so let’s take a look at how they make their calculations."
+    "text": "A recent BMJ Oncology paper (Zhao et al. 2023) reported that “Global incidence of early-onset cancer increased by 79.1% and the number of early-onset cancer deaths increased by 27.7% between 1990 and 2019.”.\nThose are stagering numbers, so let’s take a look at how they make their calculations."
   },
   {
     "objectID": "posts/2023-09-27-incidence_mortality/index.html#incidence",
@@ -224,24 +238,17 @@
     "text": "Conclussions\nFirst of all, I might be missunderstaing something or making a mistake here. I would be very happy to correct it.\nAssuming the logic above is reasonable, we go from the reported 79% increase in ‘incidence’ to an increase of 22.6%. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.\nFor deaths, we go from the reported 27% increase to a decrease of -12.6%. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years."
   },
   {
-    "objectID": "posts/2023-09-27-incidence_mortality/index.html#references",
-    "href": "posts/2023-09-27-incidence_mortality/index.html#references",
-    "title": "Cancer increase in young adults?",
-    "section": "References",
-    "text": "References\nZhao J, Xu L, Sun J, et al Global trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019 BMJ Oncology 2023;2:e000049. doi: 10.1136/bmjonc-2023-000049"
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "title": "Teaching",
     "section": "",
-    "text": "There will be some content here… hopefully below\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCancer increase in young adults?\n\n\n\nCancer\n\n\nBayes\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\nGorka Navarrete\n\n\nSep 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\njsPsychR\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\nGorka Navarrete\n\n\nFeb 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gorka Navarrete",
-    "section": "",
-    "text": "My main research focus is related to Bayesian reasoning, risk communication and decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher’s life easier. See some of it in my Github profile."
+    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
   }
 ]

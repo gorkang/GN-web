@@ -8,14 +8,15 @@ author:
     affiliation: Adjunt professor, UAI
     affiliation-url: https://github.com/gorkang/jsPsychR-manual
 date: 2023-02-03
-categories: [Quarto, R, MEDS] # self-defined categories
+categories: [jsPsych, Metascience] # self-defined categories
 citation: 
   url: https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/ 
 image: preview_image.png
+bibliography: bibliography.bib
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-`jsPsychR` is a group of **open source** tools to help create experimental paradigms with [jsPsych](https://www.jspsych.org/), simulate participants and standardize the data preparation and analysis.
+`jsPsychR` is a group of **open source** tools to help create experimental paradigms with [jsPsych](https://www.jspsych.org/), simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier.  
 
 ------------------------------------------------------------------------
 
@@ -23,8 +24,26 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ------------------------------------------------------------------------
 
-We have three main tools:
 
--   [jsPsychMaker](https://gorkang.github.io/jsPsychR-manual/qmd/03-jsPsychMaker.html): Create experiments with [jsPsych](https://www.jspsych.org/), randomize participants balance between conditions, etc.
--   [jsPsychMonkeys](https://gorkang.github.io/jsPsychR-manual/qmd/04-jsPsychMonkeys.html): Release monkeys to a [jsPsych](https://www.jspsych.org/) experiment using the R package {[targets](https://books.ropensci.org/targets/)}, [docker](https://www.docker.com/) and {[RSelenium](https://docs.ropensci.org/RSelenium/)}
--   [jsPsychHelpeR](https://gorkang.github.io/jsPsychR-manual/qmd/05-jsPsychHelpeR.html): Standardize and automatize data preparation and analysis of [jsPsych](https://www.jspsych.org/) experiments created with [jsPsychMaker](https://gorkang.github.io/jsPsychR-manual/qmd/03-jsPsychMaker.html)
+## Reproducible experiments {#intro}
+
+We use different technologies to develop experiments. Some examples are [Psychopy](https://www.psychopy.org/), [Qualtrics](https://www.qualtrics.com/), [Limesurvey](https://www.limesurvey.org/), [jsPsych](https://www.jspsych.org/plugins/jspsych-preload/), [Gorilla](https://gorilla.sc/), etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, ...
+
+In our lab, we opted for [jsPsych](https://www.jspsych.org/) to run behavioral experiments because it is an **open source** javascript library, based on standard web technologies, and can be used online and offline.
+
+In the last years, we started working on a set of tools to help people without coding expertise to create [jsPsych](https://www.jspsych.org/) experimental protocols ([jsPsychMaker](https://github.com/gorkang/jsPsychMaker)), simulate participants ([jspsychMonkeys](https://github.com/gorkang/jsPsychMonkeys)) and standardize and automatize the data preparation and analysis ([jsPsychHelpeR](https://github.com/gorkang/jsPsychHelpeR)).  
+
+Our final goal is to have a big catalog of tasks available to use in the [jsPsychMaker](https://github.com/gorkang/jsPsychMaker) repo. Each of the tasks should run with [jspsychMonkeys](https://github.com/gorkang/jsPsychMonkeys) to create virtual participants. And each task will have a sister script in [jsPsychHelpeR](https://github.com/gorkang/jsPsychHelpeR) to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.).  
+
+
+## Open and reproducible pipeline
+
+To replicate an experimental protocol from a publication is not trivial. @obels2020ampps checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful [@lindsay2023m], this should be an unavoidable aspect of researcher's work soon enough.  
+
+Furthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.  
+
+With this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.
+
+The system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a [registered report](https://www.cos.io/initiatives/registered-reports) and just relaunch the data preparation and analysis when the participant's responses arrive, with a single command.
+
+And if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, [we got you covered](05-jsPsychHelpeR.html#docker-containers).  

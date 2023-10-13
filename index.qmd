@@ -7,4 +7,4 @@ My main research focus is related to Bayesian reasoning, risk communication and 
 
 I obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.  
 
-Besides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher's life easier. See some of it in my [Github profile](https://github.com/gorkang).  
+Besides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher's life easier. See some of my coding work in my [Github profile](https://github.com/gorkang).  
