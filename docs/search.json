@@ -242,13 +242,27 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+    "text": "My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-teaching",
+    "href": "teaching.html#undergraduate-teaching",
+    "title": "Teaching",
+    "section": "Undergraduate teaching",
+    "text": "Undergraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología\n2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje\n2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]\nUniversidad de La Laguna, España\n\n2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II\n2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje\n2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje\nUniversidad Nacional de Educación a Distancia, España\n2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología\n2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología"
+  },
+  {
+    "objectID": "teaching.html#postgraduate-teaching",
+    "href": "teaching.html#postgraduate-teaching",
+    "title": "Teaching",
+    "section": "Postgraduate teaching",
+    "text": "Postgraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2021-1, 2022-1, 2023-1 – Doctorado en Neurociencia y Cognición: Seminario científico. R para la preparación y visualización de datos\n2019-2, 2021-2, 2022-2, 2023-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II\n2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales\n2019-1 – Doctorado en Neurociencia y Cognición: Tutorías\n2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. R para la preparación y visualización de datos\n2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis\n2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición\n2015 - Magister en Neurociencia Social: Neurociencias Cognitivas"
   },
   {
     "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
     "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
     "title": "Teaching",
-    "section": "",
-    "text": "Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+    "section": "R para preparación y visualización de datos [SP]",
+    "text": "R para preparación y visualización de datos [SP]\nCurso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
   }
 ]

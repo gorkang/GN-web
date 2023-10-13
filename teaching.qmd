@@ -2,7 +2,76 @@
 title: "Teaching"
 ---
 
-## R para preparación y visualización de datos [SP]
+My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology.   
+
+
+## Undergraduate teaching
+
+
+**Universidad Adolfo Ibáñez, Facultad de Psicología, Chile**  
+
+2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología
+
+2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje 
+
+2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones 
+
+
+**Universidad Diego Portales, Facultad de Psicología, Chile**  
+
+2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]  
+
+
+**Universidad de La Laguna, España**  
+
+<!-- 2011 - 2012 – Grado en Psicología: Fundamentos de Metodología II  -->
+
+2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II
+
+2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje
+
+2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje
+
+
+**Universidad Nacional de Educación a Distancia, España**  
+
+2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología
+
+2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología  
+		
+
+
+## Postgraduate teaching
+
+
+**Universidad Adolfo Ibáñez, Facultad de Psicología, Chile**  
+
+2021-1, 2022-1, 2023-1 – Doctorado en Neurociencia y Cognición: Seminario científico. [R para la preparación y visualización de datos](https://github.com/gorkang/R_preparacion_visualizacion_datos)  
+
+2019-2, 2021-2, 2022-2, 2023-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II  
+
+2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales  
+
+2019-1 – Doctorado en Neurociencia y Cognición: Tutorías  
+
+2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. [R para la preparación y visualización de datos](https://github.com/gorkang/R_preparacion_visualizacion_datos)  
+
+2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica  
+
+
+**Universidad Diego Portales, Facultad de Psicología, Chile**  
+
+2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis   
+
+2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición  
+
+2015 - Magister en Neurociencia Social: Neurociencias Cognitivas   
+
+
+
+
+## R para preparación y visualización de datos \[SP\]
+
 
 Curso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.
 
@@ -10,9 +79,8 @@ El objetivo de este curso es aportar herramientas básicas para trabajar de mane
 
 Al finalizar el curso deberíamos ser capaces de:
 
-- Importar archivos de datos, transformar los datos, crear nuevas variables.
-- Realizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.
-- Generar reportes reproducibles con RMarkdown.
-
+-   Importar archivos de datos, transformar los datos, crear nuevas variables.
+-   Realizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.
+-   Generar reportes reproducibles con RMarkdown.
 
 Puedes acceder aquí a los [materiales completos del curso](https://github.com/gorkang/R_preparacion_visualizacion_datos).
