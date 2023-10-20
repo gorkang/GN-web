@@ -1,5 +1,7 @@
 project:
   type: website
+  preview: 
+    port: 4321
   output-dir: docs
 
 website:
@@ -25,4 +27,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source

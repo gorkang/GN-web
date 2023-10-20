@@ -7,46 +7,32 @@
     "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\nYou can access the jsPsychRManual for more details about the different tools."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Cancer increase in young adults?\n\n\n\n\n\n\n\nCancer\n\n\nBayes\n\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\n\n\n\nSep 27, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\n  \n\n\n\n\njsPsychR\n\n\n\n\n\n\n\njsPsych\n\n\nMetascience\n\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\n\n\n\nFeb 3, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\nNo matching items"
+    "text": "My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gorka Navarrete",
-    "section": "",
-    "text": "My main research focus is related to Bayesian reasoning, risk communication and decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
+    "objectID": "teaching.html#undergraduate-teaching",
+    "href": "teaching.html#undergraduate-teaching",
+    "title": "Teaching",
+    "section": "Undergraduate teaching",
+    "text": "Undergraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología\n2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje\n2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]\nUniversidad de La Laguna, España\n\n2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II\n2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje\n2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje\nUniversidad Nacional de Educación a Distancia, España\n2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología\n2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología"
   },
   {
-    "objectID": "bayesianreasoning.html",
-    "href": "bayesianreasoning.html",
-    "title": "Bayesian Reasoning",
-    "section": "",
-    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+    "objectID": "teaching.html#postgraduate-teaching",
+    "href": "teaching.html#postgraduate-teaching",
+    "title": "Teaching",
+    "section": "Postgraduate teaching",
+    "text": "Postgraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2021-1, 2022-1, 2023-1 – Doctorado en Neurociencia y Cognición: Seminario científico. R para la preparación y visualización de datos\n2019-2, 2021-2, 2022-2, 2023-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II\n2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales\n2019-1 – Doctorado en Neurociencia y Cognición: Tutorías\n2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. R para la preparación y visualización de datos\n2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis\n2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición\n2015 - Magister en Neurociencia Social: Neurociencias Cognitivas"
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "See https://github.com/gorkang/presentations for the full presentations."
-  },
-  {
-    "objectID": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
-    "href": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
-    "title": "Presentations",
-    "section": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]",
-    "text": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]\nDownload presentation: PDF - ODP"
-  },
-  {
-    "objectID": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
-    "href": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
-    "title": "Presentations",
-    "section": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]",
-    "text": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]\nDownload presentation: PDF - ODP"
+    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "title": "Teaching",
+    "section": "R para preparación y visualización de datos [SP]",
+    "text": "R para preparación y visualización de datos [SP]\nCurso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
   },
   {
     "objectID": "about.html",
@@ -56,11 +42,32 @@
     "text": "Code for the website and projects available in Github"
   },
   {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html",
+    "href": "posts/2023-02-03-jsPsychR/index.html",
+    "title": "jsPsychR",
+    "section": "",
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier."
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "href": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "title": "jsPsychR",
+    "section": "Reproducible experiments",
+    "text": "Reproducible experiments\nWe use different technologies to develop experiments. Some examples are Psychopy, Qualtrics, Limesurvey, jsPsych, Gorilla, etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, …\nIn our lab, we opted for jsPsych to run behavioral experiments because it is an open source javascript library, based on standard web technologies, and can be used online and offline.\nIn the last years, we started working on a set of tools to help people without coding expertise to create jsPsych experimental protocols (jsPsychMaker), simulate participants (jspsychMonkeys) and standardize and automatize the data preparation and analysis (jsPsychHelpeR).\nOur final goal is to have a big catalog of tasks available to use in the jsPsychMaker repo. Each of the tasks should run with jspsychMonkeys to create virtual participants. And each task will have a sister script in jsPsychHelpeR to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.)."
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "href": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "title": "jsPsychR",
+    "section": "Open and reproducible pipeline",
+    "text": "Open and reproducible pipeline\nTo replicate an experimental protocol from a publication is not trivial. Obels et al. (2020) checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful (Lindsay 2023), this should be an unavoidable aspect of researcher’s work soon enough.\nFurthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.\nWith this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.\nThe system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a registered report and just relaunch the data preparation and analysis when the participant’s responses arrive, with a single command.\nAnd if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, we got you covered."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "This list of publications has been automagically generated on 2023-10-13 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile."
+    "text": "This list of publications has been automagically generated on 2023-10-20 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile."
   },
   {
     "objectID": "publications.html#section",
@@ -74,7 +81,7 @@
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2022",
-    "text": "2022\n\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2022). Differences in regional gray matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, Annals of the New York Academy of Sciences. http://www.scopus.com/inward/record.url?eid=2-s2.0-85123814019&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2022). A Recurring Nightmare: Risk and Protective Factors for Revictimization of Child Sexual Abuse in Chile, Journal of Child Sexual Abuse. http://www.scopus.com/inward/record.url?eid=2-s2.0-85124885806&partnerID=MN8TOARS\nDafina Petrova, Guiliana Ubillus, Gorka Navarrete, Tania Rodríguez, Pedro Ortiz, Rocio Garcia-Retamero (2022). Cancer Screening Risk Literacy of Physicians in Training (Supplementary documentation), Open Science Framework. NA\nAlejandra Neely-Prado, Gorka Navarrete, Michiel van Elk, David Artigas (2022). Social adaptation in context: the differential role of religiosity and self- esteem in vulnerable vs non-vulnerable populations, Open Science Framework. NA"
+    "text": "2022\n\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2022). Differences in regional gray matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, Annals of the New York Academy of Sciences. http://www.scopus.com/inward/record.url?eid=2-s2.0-85123814019&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2022). A Recurring Nightmare: Risk and Protective Factors for Revictimization of Child Sexual Abuse in Chile, Journal of Child Sexual Abuse. http://www.scopus.com/inward/record.url?eid=2-s2.0-85124885806&partnerID=MN8TOARS\nDafina Petrova, Guiliana Ubillus, Gorka Navarrete, Tania Rodríguez, Pedro Ortiz, Rocio Garcia-Retamero (2022). Cancer Screening Risk Literacy of Physicians in Training (Supplementary documentation), Open Science Framework. NA"
   },
   {
     "objectID": "publications.html#section-2",
@@ -95,7 +102,7 @@
     "href": "publications.html#section-4",
     "title": "Publications",
     "section": "2019",
-    "text": "2019\n\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Rostrup, N., Skov, M., Corradi, G., Nadal, M. (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts, Psychology of Aesthetics, Creativity, and the Arts. http://www.scopus.com/inward/record.url?eid=2-s2.0-85038242354&partnerID=MN8TOARS\nPetrova, D., Mas, G., Navarrete, G., Rodriguez, T.T., Ortiz, P.J., Garcia-Retamero, R. (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069268906&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G., Dieckmann, N., Nelson, J. (2019). Editorial: Judgment and decision making under uncertainty: Descriptive, normative, and prescriptive perspectives, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069513921&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Nicolle, A., González-Mora, J.L., Smith, K.W., Marling, M., Goel, V. (2019). Developmental grey matter changes in superior parietal cortex accompany improved transitive reasoning, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-85054359950&partnerID=MN8TOARS\nAlejandra Neely-Prado, Yuka Kotozaki, Gorka Navarrete, David Huepe (2019). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLOS ONE. https://doi.org/10.1371/journal.pone.0218236\nDafina Petrova, Guiliana Mas, Gorka Navarrete, Tania Tello Rodriguez, Pedro J. Ortiz, Rocio Garcia-Retamero, Valerio Capraro (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLOS ONE. NA\nMandel DR, Navarrete G, Dieckmann N, Nelson J (2019). Editorial: Judgment and Decision Making Under Uncertainty: Descriptive, Normative, and Prescriptive Perspectives., Frontiers in psychology. http://europepmc.org/abstract/med/31312160\nOshin Vartanian, Gorka Navarrete, Anjan Chatterjee, Lars Brorson Fich, Helmut Leder, Cristián Modroño, Nicolai Rostrup, Martin Skov, Guido Corradi, Marcos Nadal (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts., Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000150"
+    "text": "2019\n\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Rostrup, N., Skov, M., Corradi, G., Nadal, M. (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts, Psychology of Aesthetics, Creativity, and the Arts. http://www.scopus.com/inward/record.url?eid=2-s2.0-85038242354&partnerID=MN8TOARS\nPetrova, D., Mas, G., Navarrete, G., Rodriguez, T.T., Ortiz, P.J., Garcia-Retamero, R. (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069268906&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G., Dieckmann, N., Nelson, J. (2019). Editorial: Judgment and decision making under uncertainty: Descriptive, normative, and prescriptive perspectives, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069513921&partnerID=MN8TOARS\nDafina Petrova, Guiliana Mas, Gorka Navarrete, Tania Tello Rodriguez, Pedro J. Ortiz, Rocio Garcia-Retamero, Valerio Capraro (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLOS ONE. NA\nModroño, C., Navarrete, G., Nicolle, A., González-Mora, J.L., Smith, K.W., Marling, M., Goel, V. (2019). Developmental grey matter changes in superior parietal cortex accompany improved transitive reasoning, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-85054359950&partnerID=MN8TOARS\nAlejandra Neely-Prado, Yuka Kotozaki, Gorka Navarrete, David Huepe (2019). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLOS ONE. https://doi.org/10.1371/journal.pone.0218236\nDafina Petrova, Guiliana Mas, Gorka Navarrete, Tania Tello Rodriguez, Pedro J. Ortiz, Rocio Garcia-Retamero, Valerio Capraro (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLOS ONE. NA\nMandel DR, Navarrete G, Dieckmann N, Nelson J (2019). Editorial: Judgment and Decision Making Under Uncertainty: Descriptive, Normative, and Prescriptive Perspectives., Frontiers in psychology. http://europepmc.org/abstract/med/31312160\nOshin Vartanian, Gorka Navarrete, Anjan Chatterjee, Lars Brorson Fich, Helmut Leder, Cristián Modroño, Nicolai Rostrup, Martin Skov, Guido Corradi, Marcos Nadal (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts., Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000150"
   },
   {
     "objectID": "publications.html#section-5",
@@ -137,7 +144,7 @@
     "href": "publications.html#section-10",
     "title": "Publications",
     "section": "2013",
-    "text": "2013\n\nLesage, E., Navarrete, G., de Neys, W. (2013). Evolutionary modules and Bayesian facilitation: The role of general cognitive resources, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-84876119023&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modrono, C., Nadal, M., Rostrup, N., Skov, M. (2013). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, Proceedings of the National Academy of Sciences of the United States of America. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879302662&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activation of the human mirror neuron system during the observation of the manipulation of virtual tools in the absence of a visible effector limb, Neuroscience Letters. http://www.scopus.com/inward/record.url?eid=2-s2.0-84886259877&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activating motor cortex by means of virtual tools, Journal of Cyber Therapy and Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-84901321505&partnerID=MN8TOARS"
+    "text": "2013\n\nLesage, E., Navarrete, G., de Neys, W. (2013). Evolutionary modules and Bayesian facilitation: The role of general cognitive resources, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-84876119023&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modrono, C., Nadal, M., Rostrup, N., Skov, M. (2013). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, Proceedings of the National Academy of Sciences of the United States of America. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879302662&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activation of the human mirror neuron system during the observation of the manipulation of virtual tools in the absence of a visible effector limb, Neuroscience Letters. http://www.scopus.com/inward/record.url?eid=2-s2.0-84886259877&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activating motor cortex by means of virtual tools, Journal of Cyber Therapy and Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-84901321505&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modrono, C., Nadal, M., Rostrup, N., Skov, M. (2013). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, Proceedings of the National Academy of Sciences of the United States of America. http://www.scopus.com/inward/record.url?eid=2-s2.0-84879302662&partnerID=MN8TOARS"
   },
   {
     "objectID": "publications.html#section-11",
@@ -175,25 +182,32 @@
     "text": "2003\n\nRomero, E., Sopena, J.M., Navarrete, G., Alquézar, R. (2003). Feature Selection Forcing Overtraining May Help to Improve Performance, Proceedings of the International Joint Conference on Neural Networks. http://www.scopus.com/inward/record.url?eid=2-s2.0-0141857584&partnerID=MN8TOARS"
   },
   {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html",
-    "href": "posts/2023-02-03-jsPsychR/index.html",
-    "title": "jsPsychR",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier."
+    "text": "See https://github.com/gorkang/presentations for the full presentations."
   },
   {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html#intro",
-    "href": "posts/2023-02-03-jsPsychR/index.html#intro",
-    "title": "jsPsychR",
-    "section": "Reproducible experiments",
-    "text": "Reproducible experiments\nWe use different technologies to develop experiments. Some examples are Psychopy, Qualtrics, Limesurvey, jsPsych, Gorilla, etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, …\nIn our lab, we opted for jsPsych to run behavioral experiments because it is an open source javascript library, based on standard web technologies, and can be used online and offline.\nIn the last years, we started working on a set of tools to help people without coding expertise to create jsPsych experimental protocols (jsPsychMaker), simulate participants (jspsychMonkeys) and standardize and automatize the data preparation and analysis (jsPsychHelpeR).\nOur final goal is to have a big catalog of tasks available to use in the jsPsychMaker repo. Each of the tasks should run with jspsychMonkeys to create virtual participants. And each task will have a sister script in jsPsychHelpeR to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.)."
+    "objectID": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "href": "presentations.html#prevalence-and-positive-predictive-value-adopt-an-unicorn-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]",
+    "text": "Prevalence and Positive Predictive Value [Adopt an Unicorn edition]\nDownload presentation: PDF - ODP"
   },
   {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
-    "href": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
-    "title": "jsPsychR",
-    "section": "Open and reproducible pipeline",
-    "text": "Open and reproducible pipeline\nTo replicate an experimental protocol from a publication is not trivial. Obels et al. (2020) checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful (Lindsay 2023), this should be an unavoidable aspect of researcher’s work soon enough.\nFurthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.\nWith this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.\nThe system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a registered report and just relaunch the data preparation and analysis when the participant’s responses arrive, with a single command.\nAnd if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, we got you covered."
+    "objectID": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "href": "presentations.html#prevalence-and-negative-predictive-value-diagnostic-versus-screening-edition",
+    "title": "Presentations",
+    "section": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]",
+    "text": "Prevalence and Negative Predictive Value [diagnostic versus screening edition]\nDownload presentation: PDF - ODP"
+  },
+  {
+    "objectID": "bayesianreasoning.html",
+    "href": "bayesianreasoning.html",
+    "title": "Bayesian Reasoning",
+    "section": "",
+    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
   },
   {
     "objectID": "posts/2023-09-27-incidence_mortality/index.html",
@@ -238,31 +252,17 @@
     "text": "Conclussions\nFirst of all, I might be missunderstaing something or making a mistake here. I would be very happy to correct it.\nAssuming the logic above is reasonable, we go from the reported 79% increase in ‘incidence’ to an increase of 22.6%. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.\nFor deaths, we go from the reported 27% increase to a decrease of -12.6%. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology."
+    "text": "Cancer increase in young adults?\n\n\n\n\n\n\n\nCancer\n\n\nBayes\n\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\n\n\n\nSep 27, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\n  \n\n\n\n\njsPsychR\n\n\n\n\n\n\n\njsPsych\n\n\nMetascience\n\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\n\n\n\nFeb 3, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching.html#undergraduate-teaching",
-    "href": "teaching.html#undergraduate-teaching",
-    "title": "Teaching",
-    "section": "Undergraduate teaching",
-    "text": "Undergraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología\n2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje\n2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]\nUniversidad de La Laguna, España\n\n2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II\n2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje\n2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje\nUniversidad Nacional de Educación a Distancia, España\n2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología\n2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología"
-  },
-  {
-    "objectID": "teaching.html#postgraduate-teaching",
-    "href": "teaching.html#postgraduate-teaching",
-    "title": "Teaching",
-    "section": "Postgraduate teaching",
-    "text": "Postgraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2021-1, 2022-1, 2023-1 – Doctorado en Neurociencia y Cognición: Seminario científico. R para la preparación y visualización de datos\n2019-2, 2021-2, 2022-2, 2023-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II\n2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales\n2019-1 – Doctorado en Neurociencia y Cognición: Tutorías\n2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. R para la preparación y visualización de datos\n2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis\n2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición\n2015 - Magister en Neurociencia Social: Neurociencias Cognitivas"
-  },
-  {
-    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "title": "Teaching",
-    "section": "R para preparación y visualización de datos [SP]",
-    "text": "R para preparación y visualización de datos [SP]\nCurso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gorka Navarrete",
+    "section": "",
+    "text": "My main research focus is related to Bayesian reasoning, risk communication and decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunt professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Openscience and Metascience. I truly believe that science should be as open and reproducible as possible. Also, I love Rstats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
   }
 ]
