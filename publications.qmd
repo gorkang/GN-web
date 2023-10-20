@@ -27,7 +27,8 @@ authors = 1:length(DF_publications_raw$`0000-0001-7678-8656`$works$work.contribu
 DF_publications = 
   DF_publications_raw$`0000-0001-7678-8656`$works |> 
   dplyr::bind_cols(authors) |> 
-  dplyr::arrange(dplyr::desc(`work.publication-date.year.value`))
+  dplyr::arrange(dplyr::desc(`work.publication-date.year.value`)) |> 
+  dplyr::distinct(`work.title.title.value`, .keep_all = TRUE)
 
 ```
 
