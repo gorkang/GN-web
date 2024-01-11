@@ -24,3 +24,12 @@ Download presentation: [PDF](https://github.com/gorkang/presentations/blob/maste
 ![](https://github.com/gorkang/presentations/raw/master/docs/Prevalence-NPV.png)
 
 ---  
+
+
+## jsPsychR: open source tools to help create experimental paradigms with jsPsych
+
+[See presentation](https://gorkang.github.io/jsPsychRpresentation/#/title-slide)
+
+[![](img/old_school_science.png)](https://gorkang.github.io/jsPsychRpresentation/#/title-slide)
+
+---

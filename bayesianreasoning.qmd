@@ -9,3 +9,6 @@ A package that includes a few functions to plot and help understand Positive and
 <https://github.com/gorkang/BayesianReasoning>
 
 ![](img/BayesianReasoning.png)
+
+
+![](img/BayesianReasoning_cutoff.png)

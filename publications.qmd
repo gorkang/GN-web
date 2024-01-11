@@ -3,7 +3,7 @@ title: "Publications"
 author: "Gorka Navarrete"
 ---
 
-This list of publications has been automagically generated on `r Sys.Date()` using the {[rorcid](https://github.com/ropensci/rorcid)} package and a bit of [R code](https://github.com/gorkang/GN-web/blob/master/publications.qmd). You can directly check my [ORCID profile](https://orcid.org/0000-0001-7678-8656).
+This list of publications has been automagically generated on `r Sys.Date()` using the {[rorcid](https://github.com/ropensci/rorcid)} package and a bit of [R code](https://github.com/gorkang/GN-web/blob/master/publications.qmd). You can directly check my [ORCID profile](https://orcid.org/0000-0001-7678-8656). A copy of the publications can be found in this [shared folder](https://drive.google.com/drive/folders/1oNFC4lcG23MX4B2M097HyAQVRKX9vvAF){target="_blank"}. 
 
 ------------------------------------------------------------------------
 

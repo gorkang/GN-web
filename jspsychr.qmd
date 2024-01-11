@@ -1,8 +1,7 @@
 ---
   title: "jsPsychR"
 ---
-  
-  
+
 `jsPsychR` is a group of **open source** tools to help create experimental paradigms with [jsPsych](https://www.jspsych.org/), simulate participants and standardize the data preparation and analysis.
 
 ------------------------------------------------------------------------
