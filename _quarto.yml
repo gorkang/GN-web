@@ -7,6 +7,7 @@ project:
 website:
   google-analytics: "G-J17YNM67JE"
   title: "Gorka Navarrete"
+  site-url: https://gorkang.github.io/GN-web/
   navbar:
     left:
       - href: index.qmd
@@ -18,6 +19,9 @@ website:
       - jspsychr.qmd
       - bayesianreasoning.qmd
       - about.qmd
+    right:
+      - icon: rss
+        href: posts.xml
   page-footer: 
     left: 'Gorka Navarrete. Contact me at <a href = "https://fosstodon.org/@gorkang">\@gorkang</a> or gorkang at gmail'
 

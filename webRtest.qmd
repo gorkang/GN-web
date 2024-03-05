@@ -1,0 +1,37 @@
+---
+title: "webR test"
+filters:
+  - "webr"
+webr:
+  packages:
+  - "ggplot2"
+---
+
+Reported issue in https://github.com/r-wasm/webr/issues/357
+
+
+```{webr-r}
+# | context: setup
+# webr::install("png")
+webr::install("BayesianReasoning")
+
+```
+
+```{webr-r}
+
+
+BayesianReasoning::PPV_heatmap(Sensitivity = 90, limits_Specificity = c(90, 100))
+
+```
+
+
+Test:  
+
+```{webr-r}
+
+mpg |> 
+  ggplot2::ggplot(aes(hwy, cty)) +
+  ggplot2::geom_point() +
+  ggplot2::theme_minimal()
+
+```

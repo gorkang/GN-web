@@ -8,7 +8,7 @@ author:
     affiliation: Adjunt professor, UAI
     affiliation-url: https://github.com/gorkang/jsPsychR-manual
 date: 2023-02-03
-categories: [jsPsych, Metascience] # self-defined categories
+categories: [jsPsych, Metascience, rstats] # self-defined categories
 citation: 
   url: https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/ 
 image: preview_image.png
