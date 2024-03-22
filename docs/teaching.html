@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.515">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -60,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -131,7 +132,7 @@ gtag('config', 'G-J17YNM67JE', { 'anonymize_ip': true});
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./posts.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -182,17 +183,18 @@ gtag('config', 'G-J17YNM67JE', { 'anonymize_ip': true});
 <p>My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology.</p>
 <section id="undergraduate-teaching" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-teaching">Undergraduate teaching</h2>
+<p><strong>Universidad de La Laguna, España</strong></p>
+<p>2024 – Grado en Psicología: Trabajos de Fin de Grado</p>
+<p>2024 – Grado en Psicología: Fisiología de la Conducta</p>
+<p>2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II</p>
+<p>2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje</p>
+<p>2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje</p>
 <p><strong>Universidad Adolfo Ibáñez, Facultad de Psicología, Chile</strong></p>
 <p>2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología</p>
 <p>2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje</p>
 <p>2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones</p>
 <p><strong>Universidad Diego Portales, Facultad de Psicología, Chile</strong></p>
 <p>2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]</p>
-<p><strong>Universidad de La Laguna, España</strong></p>
-<!-- 2011 - 2012 – Grado en Psicología: Fundamentos de Metodología II  -->
-<p>2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II</p>
-<p>2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje</p>
-<p>2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje</p>
 <p><strong>Universidad Nacional de Educación a Distancia, España</strong></p>
 <p>2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología</p>
 <p>2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología</p>
@@ -355,27 +357,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
@@ -390,10 +371,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             break;
           }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -402,8 +387,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

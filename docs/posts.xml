@@ -9,7 +9,7 @@
 <link>https://gorkang.github.io/GN-web/posts.html</link>
 <atom:link href="https://gorkang.github.io/GN-web/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.515</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Tue, 26 Sep 2023 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Cancer increase in young adults?</title>
@@ -66,11 +66,11 @@
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-zhao2023b" class="csl-entry">
 Zhao, Jianhui, Liying Xu, Jing Sun, Mingyang Song, Lijuan Wang, Shuai Yuan, Yingshuang Zhu, et al. 2023. <span>“Global Trends in Incidence, Death, Burden and Risk Factors of Early-Onset Cancer from 1990 to 2019.”</span> <em>BMJ Oncology</em> 2 (1): e000049. <a href="https://doi.org/10.1136/bmjonc-2023-000049">https://doi.org/10.1136/bmjonc-2023-000049</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarrete2023,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarrete2023,
   author = {Navarrete, Gorka},
   title = {Cancer Increase in Young Adults?},
   date = {2023-09-27},
@@ -120,14 +120,14 @@ September 27, 2023. <a href="https://gorkang.github.io/GN-web/posts/2023-09-27-i
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-lindsay2023m" class="csl-entry">
 Lindsay, D. Stephen. 2023. <span>“A <span>Plea</span> to <span>Psychology Professional Societies</span> That <span>Publish Journals</span>: <span>Assess Computational Reproducibility</span>.”</span> <em>Meta-Psychology</em> 7 (September). <a href="https://doi.org/10.15626/MP.2023.4020">https://doi.org/10.15626/MP.2023.4020</a>.
 </div>
 <div id="ref-obels2020ampps" class="csl-entry">
 Obels, Pepijn, Daniël Lakens, Nicholas A Coles, Jaroslav Gottfried, and Seth A Green. 2020. <span>“Analysis of <span>Open Data</span> and <span>Computational Reproducibility</span> in <span>Registered Reports</span> in <span>Psychology</span>.”</span> <em>Advances in Methods and Practices in Psychological Science</em> 3 (2). <a href="https://doi.org/10.1177/2515245920918872">https://doi.org/10.1177/2515245920918872</a>.
 </div>
-</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarrete2023,
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarrete2023,
   author = {Navarrete, Gorka},
   title = {jsPsychR},
   date = {2023-02-03},

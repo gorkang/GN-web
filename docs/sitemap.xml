@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gorkang.github.io/GN-web/jspsychr.html</loc>
-    <lastmod>2024-01-11T13:11:33.421Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/index.html</loc>
-    <lastmod>2024-01-11T13:09:36.713Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/posts.html</loc>
-    <lastmod>2024-03-05T08:50:09.108Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/index.html</loc>
-    <lastmod>2023-10-13T11:10:05.411Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/bayesianreasoning.html</loc>
-    <lastmod>2024-01-11T13:10:45.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/presentations.html</loc>
-    <lastmod>2024-01-11T13:16:42.513Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gorkang.github.io/GN-web/publications.html</loc>
-    <lastmod>2024-01-11T13:06:47.269Z</lastmod>
+    <loc>https://gorkang.github.io/GN-web/teaching.html</loc>
+    <lastmod>2024-03-22T10:36:24.199Z</lastmod>
   </url>
   <url>
     <loc>https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/index.html</loc>
@@ -34,14 +10,38 @@
   </url>
   <url>
     <loc>https://gorkang.github.io/GN-web/about.html</loc>
-    <lastmod>2023-01-25T11:22:15.837Z</lastmod>
+    <lastmod>2023-01-25T11:22:15.836Z</lastmod>
   </url>
   <url>
-    <loc>https://gorkang.github.io/GN-web/teaching.html</loc>
-    <lastmod>2023-10-13T11:39:46.765Z</lastmod>
+    <loc>https://gorkang.github.io/GN-web/bayesianreasoning.html</loc>
+    <lastmod>2024-01-19T12:25:08.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/index.html</loc>
+    <lastmod>2024-01-11T13:09:36.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/jspsychr.html</loc>
+    <lastmod>2024-01-11T13:11:33.421Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/posts.html</loc>
+    <lastmod>2024-03-05T08:50:09.108Z</lastmod>
   </url>
   <url>
     <loc>https://gorkang.github.io/GN-web/webRtest.html</loc>
-    <lastmod>2024-02-06T12:51:39.990Z</lastmod>
+    <lastmod>2024-02-06T12:51:39.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/presentations.html</loc>
+    <lastmod>2024-01-11T13:16:42.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/publications.html</loc>
+    <lastmod>2024-01-11T13:06:47.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/index.html</loc>
+    <lastmod>2023-10-13T11:10:05.411Z</lastmod>
   </url>
 </urlset>
