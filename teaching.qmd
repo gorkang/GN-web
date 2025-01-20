@@ -9,15 +9,19 @@ My undergraduate and postgraduate teaching has been focused in Cognitive Psychol
 
 **Universidad de La Laguna, España**  
 
+2025 – Grado en Psicología: Pensamiento
+
+2024 – Grado en Psicología: Fundamentos de Psicobiología
+
 2024 – Grado en Psicología: Trabajos de Fin de Grado
 
 2024 – Grado en Psicología: Fisiología de la Conducta
 
-2011 - 2012 – Contratado Laboral Interino 6+6h: Grado en Psicología: Fundamentos de Metodología II
+2011 - 2012 – Grado en Psicología: Fundamentos de Metodología II
 
-2011 - 2012 – Grado en Psicología: Pensamiento y Lenguaje
+2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje
 
-2011 - 2012 – Venia Docente – Doctor Neurocog: Grado en Psicología: Pensamiento y Lenguaje
+2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje
 
 
 **Universidad Adolfo Ibáñez, Facultad de Psicología, Chile**  
@@ -48,9 +52,9 @@ My undergraduate and postgraduate teaching has been focused in Cognitive Psychol
 
 **Universidad Adolfo Ibáñez, Facultad de Psicología, Chile**  
 
-2021-1, 2022-1, 2023-1 – Doctorado en Neurociencia y Cognición: Seminario científico. [R para la preparación y visualización de datos](https://github.com/gorkang/R_preparacion_visualizacion_datos)  
+2021-1, 2022-1, 2023-1, 2024-1 – Doctorado en Neurociencia y Cognición: Seminario científico. [R para la preparación y visualización de datos](https://github.com/gorkang/R_preparacion_visualizacion_datos)  
 
-2019-2, 2021-2, 2022-2, 2023-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II  
+2019-2, 2021-2, 2022-2, 2023-2, 2024-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II  
 
 2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales  
 
