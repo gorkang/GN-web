@@ -28,8 +28,22 @@ DF_publications =
   DF_publications_raw$`0000-0001-7678-8656`$works |> 
   dplyr::bind_cols(authors) |> 
   dplyr::arrange(dplyr::desc(`work.publication-date.year.value`)) |> 
-  dplyr::distinct(`work.title.title.value`, .keep_all = TRUE)
-
+  dplyr::distinct(`work.title.title.value`, .keep_all = TRUE)|> 
+  mutate(`work.publication-date.year.value` = 
+           case_when(
+             `work.title.title.value` == "Cancer screening risk literacy of physicians in training: An experimental study" ~ "2019",
+             TRUE ~ `work.publication-date.year.value`
+           )) |> 
+  
+  # Nuevos articulos, aun no en ORCID
+  bind_rows(
+    tibble(
+     authors = "Contreras Taibo, L., Navarrete, G., Pereda, N. y Pinto-Cortez, C.",
+     `work.publication-date.year.value` = "2025",
+     `work.title.title.value` = "Transformación tras la adversidad: crecimiento postraumático en sobrevivientes de violencia sexual infantil", 
+     `work.journal-title.value` = "Anuario de Psicología",
+      work.url.value = "https://doi.org/10.5093/apj2025a10" 
+    ))
 ```
 
 ```{r, results='asis'}

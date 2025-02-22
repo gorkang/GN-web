@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-teaching",
+    "href": "teaching.html#undergraduate-teaching",
+    "title": "Teaching",
+    "section": "Undergraduate teaching",
+    "text": "Undergraduate teaching\nUniversidad de La Laguna, España\n2025 – Grado en Psicología: Pensamiento\n2024 – Grado en Psicología: Fundamentos de Psicobiología\n2024 – Grado en Psicología: Trabajos de Fin de Grado\n2024 – Grado en Psicología: Fisiología de la Conducta\n2011 - 2012 – Grado en Psicología: Fundamentos de Metodología II\n2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje\n2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología\n2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje\n2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]\nUniversidad Nacional de Educación a Distancia, España\n2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología\n2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología"
+  },
+  {
+    "objectID": "teaching.html#postgraduate-teaching",
+    "href": "teaching.html#postgraduate-teaching",
+    "title": "Teaching",
+    "section": "Postgraduate teaching",
+    "text": "Postgraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2021-1, 2022-1, 2023-1, 2024-1 – Doctorado en Neurociencia y Cognición: Seminario científico. R para la preparación y visualización de datos\n2019-2, 2021-2, 2022-2, 2023-2, 2024-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II\n2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales\n2019-1 – Doctorado en Neurociencia y Cognición: Tutorías\n2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. R para la preparación y visualización de datos\n2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis\n2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición\n2015 - Magister en Neurociencia Social: Neurociencias Cognitivas"
+  },
+  {
+    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
+    "title": "Teaching",
+    "section": "R para preparación y visualización de datos [SP]",
+    "text": "R para preparación y visualización de datos [SP]\nCurso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html",
+    "href": "posts/2023-02-03-jsPsychR/index.html",
+    "title": "jsPsychR",
+    "section": "",
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier."
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "href": "posts/2023-02-03-jsPsychR/index.html#intro",
+    "title": "jsPsychR",
+    "section": "Reproducible experiments",
+    "text": "Reproducible experiments\nWe use different technologies to develop experiments. Some examples are Psychopy, Qualtrics, Limesurvey, jsPsych, Gorilla, etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, …\nIn our lab, we opted for jsPsych to run behavioral experiments because it is an open source javascript library, based on standard web technologies, and can be used online and offline.\nIn the last years, we started working on a set of tools to help people without coding expertise to create jsPsych experimental protocols (jsPsychMaker), simulate participants (jspsychMonkeys) and standardize and automatize the data preparation and analysis (jsPsychHelpeR).\nOur final goal is to have a big catalog of tasks available to use in the jsPsychMaker repo. Each of the tasks should run with jspsychMonkeys to create virtual participants. And each task will have a sister script in jsPsychHelpeR to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.)."
+  },
+  {
+    "objectID": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "href": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
+    "title": "jsPsychR",
+    "section": "Open and reproducible pipeline",
+    "text": "Open and reproducible pipeline\nTo replicate an experimental protocol from a publication is not trivial. Obels et al. (2020) checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful (Lindsay 2023), this should be an unavoidable aspect of researcher’s work soon enough.\nFurthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.\nWith this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.\nThe system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a registered report and just relaunch the data preparation and analysis when the participant’s responses arrive, with a single command.\nAnd if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, we got you covered."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,11 +56,39 @@
     "text": "Code for the website and projects available in Github"
   },
   {
+    "objectID": "bayesianreasoning.html",
+    "href": "bayesianreasoning.html",
+    "title": "Bayesian Reasoning",
+    "section": "",
+    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gorka Navarrete",
     "section": "",
     "text": "My main research focus is related to Bayesian reasoning, risk communication and medical decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunct professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Open science and Meta science. I truly believe that science should be as open and reproducible as possible. Also, I love RStats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
+  },
+  {
+    "objectID": "jspsychr.html",
+    "href": "jspsychr.html",
+    "title": "jsPsychR",
+    "section": "",
+    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\nYou can access the jsPsychRManual for more details about the different tools."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Cancer increase in young adults?\n\n\n\n\n\n\nCancer\n\n\nBayes\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\n\n\nSep 27, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\n\n\n\n\n\n\njsPsychR\n\n\n\n\n\n\njsPsych\n\n\nMetascience\n\n\nrstats\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\n\n\nFeb 3, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "webRtest.html",
+    "href": "webRtest.html",
+    "title": "webR test",
+    "section": "",
+    "text": "Reported issue in https://github.com/r-wasm/webr/issues/357\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\nTest:\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
   },
   {
     "objectID": "presentations.html",
@@ -42,18 +119,137 @@
     "text": "jsPsychR: open source tools to help create experimental paradigms with jsPsych\nSee presentation"
   },
   {
-    "objectID": "bayesianreasoning.html",
-    "href": "bayesianreasoning.html",
-    "title": "Bayesian Reasoning",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "A package that includes a few functions to plot and help understand Positive and Negative Predictive Values, and their relationship with Sensitivity, Specificity and Prevalence.\nhttps://cran.r-project.org/web/packages/BayesianReasoning/readme/README.html\nhttps://github.com/gorkang/BayesianReasoning"
+    "text": "This list of publications has been automagically generated on 2025-02-22 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile. A copy of the publications can be found in this shared folder."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Cancer increase in young adults?\n\n\n\n\n\n\nCancer\n\n\nBayes\n\n\n\nGlobal trends in incidence, death, burden and risk factors of early-onset cancer from 1990 to 2019\n\n\n\n\n\nSep 27, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\n\n\n\n\n\n\njsPsychR\n\n\n\n\n\n\njsPsych\n\n\nMetascience\n\n\nrstats\n\n\n\nFully reproducible experiments with jsPsychR\n\n\n\n\n\nFeb 3, 2023\n\n\nGorka Navarrete\n\n\n\n\n\n\nNo matching items"
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nContreras Taibo, L., Navarrete, G., Pereda, N. y Pinto-Cortez, C. (2025). Transformación tras la adversidad: crecimiento postraumático en sobrevivientes de violencia sexual infantil, Anuario de Psicología. https://doi.org/10.5093/apj2025a10"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nJuan-Pablo Morales, Brenda E. Ryan, Vince Polito, Gorka Navarrete, Mayte Vergara, David Huepe (2024). Can beliefs improve mental health? A dive into resilience during pandemic times in South America, Social Sciences & Humanities Open. https://doi.org/10.1016/j.ssaho.2024.100883\nMiroslav Sirota, Gorka Navarrete, Marie Juanchich (2024). When intuitive Bayesians need to be good readers: The problem-wording effect on Bayesian reasoning, Cognition. NA"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nVartanian, O., Lam, T.K., Mandel, D.R., Ann Saint, S., Navarrete, G., Carmichael, O.T., Murray, K., Pillai, S.R., Shankapal, P., Caldwell, J., Berryman, C.E., Karl, J.P., Harris, M., Rood, J.C., Pasiakos, S.M., Rice, E., Duncan, M., Lieberman, H.R. (2023). Effect of exogenous testosterone in the context of energy deficit on risky choice: Behavioural and neural evidence from males, Biological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85143864299&partnerID=MN8TOARS\nGorka Navarrete (2023). jsPsychR-manual, Zenodo. https://zenodo.org/record/8296996"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2022). Differences in regional gray matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, Annals of the New York Academy of Sciences. http://www.scopus.com/inward/record.url?eid=2-s2.0-85123814019&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2022). A Recurring Nightmare: Risk and Protective Factors for Revictimization of Child Sexual Abuse in Chile, Journal of Child Sexual Abuse. http://www.scopus.com/inward/record.url?eid=2-s2.0-85124885806&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nOshin Vartanian, Gorka Navarrete, Letizia Palumbo, Anjan Chatterjee (2021). Individual differences in preference for architectural interiors, Journal of Environmental Psychology. https://doi.org/10.1016/j.jenvp.2021.101668\nNeely-Prado, A., van Elk, M., Navarrete, G., Hola, F., Huepe, D. (2021). Social Adaptation in Context: The Differential Role of Religiosity and Self-Esteem in Vulnerable vs. Non-vulnerable Populations – A Registered Report Study, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85120866461&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nIbanez, A., Santamaria-Garcia, H., Barragan, A.G., Kornhuber, A., Ton, A.M.M., Slachevsky, A., Teixeira, A.L., Meza, B.M.M., Serrano, C.M., Cano, C., Gonzalez, C.A., Gonzalez-Billault, C., Butler, C., Bustin, J., Duran-Aniotz, C., Acosta, D., Matallana, D.L., Acosta-Alvear, D., Trépel, D., Resende, E.D.P.F., de Oliveira, F.F., Ibanez, F., De Felice, F.G., Navarrete, G., Tarnanas, I., Meier, I.B., Smid, J., Llibre-Guerra, J., Llibre-Rodriguez, J.J., Fajersztajn, L., Takada, L.T., Duque, L., de Oliveira, M.O., Bicalho, M.A.C., Behrens, M.I., Pintado-Caipa, M., Parra, M., Wilson, M.Z., De La CruPuebla, M., Custodio, N., Santibanez, R., Serafim, R.B., Tavares, R.M., Escudero, S.D.P., Rodriguez, T.L., Dawson, W., Miller, B.L., Kosik, K.S. (2020). The impact of sars-cov-2 in dementia across latin america: A call for an urgent regional plan and coordinated response, Alzheimer’s and Dementia: Translational Research and Clinical Interventions. http://www.scopus.com/inward/record.url?eid=2-s2.0-85101739367&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2020). Magnitude and characteristics of revictimization through child sexual abuse in Chile, Legal and Criminological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85074329600&partnerID=MN8TOARS\nCoburn, A., Vartanian, O., Kenett, Y.N., Nadal, M., Hartung, F., Hayn-Leichsenring, G., Navarrete, G., González-Mora, J.L., Chatterjee, A. (2020). Psychological and neural responses to architectural interiors, Cortex. http://www.scopus.com/inward/record.url?eid=2-s2.0-85079695640&partnerID=MN8TOARS\n(2020). BayesianReasoning: Plot Positive and Negative Predictive Values for Medical Tests, NA. https://CRAN.R-project.org/package=BayesianReasoning"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nDafina Petrova, Rocio Garcia-Retamero, Gorka Navarrete (2019). Cancer screening risk literacy of physicians in training: An experimental study, NA. https://doi.org/10.31234/osf.io/4dwjc\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Rostrup, N., Skov, M., Corradi, G., Nadal, M. (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts, Psychology of Aesthetics, Creativity, and the Arts. http://www.scopus.com/inward/record.url?eid=2-s2.0-85038242354&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G., Dieckmann, N., Nelson, J. (2019). Editorial: Judgment and decision making under uncertainty: Descriptive, normative, and prescriptive perspectives, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069513921&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Nicolle, A., González-Mora, J.L., Smith, K.W., Marling, M., Goel, V. (2019). Developmental grey matter changes in superior parietal cortex accompany improved transitive reasoning, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-85054359950&partnerID=MN8TOARS\nMandel DR, Navarrete G, Dieckmann N, Nelson J (2019). Editorial: Judgment and Decision Making Under Uncertainty: Descriptive, Normative, and Prescriptive Perspectives., Frontiers in psychology. http://europepmc.org/abstract/med/31312160\nOshin Vartanian, Gorka Navarrete, Anjan Chatterjee, Lars Brorson Fich, Helmut Leder, Cristián Modroño, Nicolai Rostrup, Martin Skov, Guido Corradi, Marcos Nadal (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts., Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000150"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nMoshontz, H., Campbell, L., Ebersole, C.R., Ijzerman, H., Urry, H.L., Forscher, P.S., Grahe, J.E., McCarthy, R.J., Musser, E.D., Antfolk, J., Castille, C.M., Evans, T.R., Fiedler, S., Flake, J.K., Forero, D.A., Janssen, S.M.J., Keene, J.R., Protzko, J., Aczel, B., Solas, S.Á., Ansari, D., Awlia, D., Baskin, E., Batres, C., Borras-Guevara, M.L., Brick, C., Chandel, P., Chatard, A., Chopik, W.J., Clarance, D., Coles, N.A., Corker, K.S., Dixson, B.J.W., Dranseika, V., Dunham, Y., Fox, N.W., Gardiner, G., Garrison, S.M., Gill, T., Hahn, A.C., Jaeger, B., Kačmár, P., Kaminski, G., Kanske, P., Kekecs, Z., Kline, M., Koehn, M.A., Kujur, P., Levitan, C.A., Miller, J.K., Okan, C., Olsen, J., Oviedo-Trespalacios, O., Özdoğru, A.A., Pande, B., Parganiha, A., Parveen, N., Pfuhl, G., Pradhan, S., Ropovik, I., Rule, N.O., Saunders, B., Schei, V., Schmidt, K., Singh, M.M., Sirota, M., Steltenpohl, C.N., Stieger, S., Storage, D., Sullivan, G.B., Szabelska, A., Tamnes, C.K., Vadillo, M.A., Valentova, J.V., Vanpaemel, W., Varella, M.A.C., Vergauwe, E., Verschoor, M., Vianello, M., Voracek, M., Williams, G.P., Wilson, J.P., Zickfeld, J.H., Arnal, J.D., Aydin, B., Chen, S.-C., Debruine, L.M., Fernandez, A.M., Horstmann, K.T., Isager, P.M., Jones, B., Kapucu, A., Lin, H., Mensink, M.C., Navarrete, G., Silan, M.A., Chartier, C.R. (2018). The psychological science accelerator: Advancing psychology through a distributed collaborative network, Advances in Methods and Practices in Psychological Science. http://www.scopus.com/inward/record.url?eid=2-s2.0-85116778122&partnerID=MN8TOARS\n(2018). The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network, Advances in Methods and Practices in Psychological Science. http://dx.doi.org/10.1177/2515245918797607\nNeely-Prado, A., Navarrete, G., Huepe, D. (2018). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85067402501&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nGoel, V., Navarrete, G., Noveck, I.A., Prado, J. (2017). Editorial: The reasoning brain: The interplay between cognitive neuroscience and theories of reasoning, Frontiers in Human Neuroscience. http://www.scopus.com/inward/record.url?eid=2-s2.0-85010911769&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Sirota, M., Juanchich, M., Huepe, D. (2017). Doctor, what does my positive test mean? From Bayesian textbook tasks to personalized risk communication, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954217464&partnerID=MN8TOARS\nCorreia, R., Navarrete, G. (2017). Social cognition and executive functions as key factors for effective pedagogy in higher education, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85034645858&partnerID=MN8TOARS\nAlonso Ortega, Gorka Navarrete (2017). Bayesian Hypothesis Testing: An Alternative to Null Hypothesis Significance Testing (NHST) in Psychology and Social Sciences, Bayesian Inference. NA"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nFumero, A., Navarrete, G. (2016). Personality and psychological distress: Application of a neural network model,Personalidad y Malestar Psicológico: Aplicación de un Modelo de Redes Neuronales, Revista Iberoamericana de Diagnostico y Evaluacion Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990852236&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nNavarrete, G., Santamaría, C., Froimovitch, D. (2015). Small samples and evolution: Did the law of small numbers arise as an adaptation to environmental challenges?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84926432662&partnerID=MN8TOARS\nModroño, C., Plata-Bello, J., Zelaya, F., García, S., Galván, I., Marcano, F., Navarrete, G., Casanova, O., Mas, M., González-Mora, J.L. (2015). Enhancing sensorimotor activity by controlling virtual objects with gaze, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-84925799189&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G. (2015). Editorial: Improving Bayesian reasoning: What works and why?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954204773&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Gonzalez-Mora, J.L., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2015). Architectural design and the brain: Effects of ceiling height and perceived enclosure on beauty judgments and approach-avoidance decisions, Journal of Environmental Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84911884414&partnerID=MN8TOARS\nModroño, C., Plata, J., Hernández, E., Galván, I., García, S., Zelaya, F., Marcano, F., Casanova, Ó., Navarrete, G., Mas, M., González-Mora, J.L. (2015). Enhancing brain activity by controlling virtual objects with the eye, Recent Advances on Using Virtual Reality Technologies for Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-85030252566&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nLillo-Unglaube, M., Canales-Johnson, A., Navarrete, G., Bravo, C.F. (2014). Toward an experimental account of argumentation: The case of the slippery slope and the ad hominem arguments, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923383078&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Froimovitch, D. (2014). Communicating risk in prenatal screening: The consequences of bayesian misapprehension, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923362087&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2014). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, In the Light of Evolution. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990990177&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-12",
+    "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nLesage, E., Navarrete, G., de Neys, W. (2013). Evolutionary modules and Bayesian facilitation: The role of general cognitive resources, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-84876119023&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activation of the human mirror neuron system during the observation of the manipulation of virtual tools in the absence of a visible effector limb, Neuroscience Letters. http://www.scopus.com/inward/record.url?eid=2-s2.0-84886259877&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activating motor cortex by means of virtual tools, Journal of Cyber Therapy and Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-84901321505&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nOrenes, I., Navarrete, G., Beltrán, D., Santamaría, C. (2012). Schizotypal people stick longer to their first choices, Psychiatry Research. http://www.scopus.com/inward/record.url?eid=2-s2.0-84872401714&partnerID=MN8TOARS\nNavarrete, G., Santamaría, C. (2012). Adding possibilities can reduce the Gambler’s Fallacy: A naïve-probability paradox, Journal of Cognitive Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84861325676&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-14",
+    "href": "publications.html#section-14",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nModroño, C., Rodríguez-Hernández, A.F., Marcano, F., Navarrete, G., Burunat, E., Ferrer, M., Monserrat, R., González-Mora, J.L. (2011). A low cost fMRI-compatible tracking system using the Nintendo Wii remote, Journal of Neuroscience Methods. http://www.scopus.com/inward/record.url?eid=2-s2.0-81055156319&partnerID=MN8TOARS\nNavarrete, G., Santamaría, C. (2011). Ecological rationality and evolution: the mind really works that way?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84867118667&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-15",
+    "href": "publications.html#section-15",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\n\nRodríguez-Hernández, A.F., Merino, C., Casanova, O., Modrono, C., Torres, M.Á., Montserrat, R., Navarrete, G., Burunat, E., González-Mora, J.L. (2010). Sensory substitution for visually disabled people: Computer solutions, WSEAS Transactions on Biology and Biomedicine. http://www.scopus.com/inward/record.url?eid=2-s2.0-77950406568&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-16",
+    "href": "publications.html#section-16",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\n\nFumero, A., Navarrete, G., Santamaría, C. (2009). La implicación de la confienza interpersonal en los trastornos de la personalidad, Revista Argentina de Clinica Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-70349660268&partnerID=MN8TOARS\nFumero Hernández, A., Santamaría, C., Navarrete, G. (2009). Predisposition to alcohol and drug consumption in schizophrenia-vulnerable people,Predisposición al consumo de alcohol y drogas en personas vulnerables a la esquizofrenia, Revista de Neurologia. http://www.scopus.com/inward/record.url?eid=2-s2.0-69349091702&partnerID=MN8TOARS"
+  },
+  {
+    "objectID": "publications.html#section-17",
+    "href": "publications.html#section-17",
+    "title": "Publications",
+    "section": "2003",
+    "text": "2003\n\nRomero, E., Sopena, J.M., Navarrete, G., Alquézar, R. (2003). Feature Selection Forcing Overtraining May Help to Improve Performance, Proceedings of the International Joint Conference on Neural Networks. http://www.scopus.com/inward/record.url?eid=2-s2.0-0141857584&partnerID=MN8TOARS"
   },
   {
     "objectID": "posts/2023-09-27-incidence_mortality/index.html",
@@ -96,194 +292,5 @@
     "title": "Cancer increase in young adults?",
     "section": "Conclussions",
     "text": "Conclussions\nFirst of all, I might be missunderstaing something or making a mistake here. I would be very happy to correct it.\nAssuming the logic above is reasonable, we go from the reported 79% increase in ‘incidence’ to an increase of 22.6%. This is way easier to explain in terms of improvements in the medical tests, screening programs, etc.\nFor deaths, we go from the reported 27% increase to a decrease of -12.6%. This is also makes more sense given all the medical advances in detection and treatment of the last 30 years."
-  },
-  {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html",
-    "href": "posts/2023-02-03-jsPsychR/index.html",
-    "title": "jsPsychR",
-    "section": "",
-    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis. The final goal is to help you have the data preparation and analysis ready before collecting any real data, drastically reducing errors in your protocols, and making the move towards registered reports easier."
-  },
-  {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html#intro",
-    "href": "posts/2023-02-03-jsPsychR/index.html#intro",
-    "title": "jsPsychR",
-    "section": "Reproducible experiments",
-    "text": "Reproducible experiments\nWe use different technologies to develop experiments. Some examples are Psychopy, Qualtrics, Limesurvey, jsPsych, Gorilla, etc. Each of these has advantages and disadvantages and, in general, there are pragmatic aspects to take into account when adopting one or the other: cost, type of experiment (EEG or behavioral, lab or online), lab history and available resources, …\nIn our lab, we opted for jsPsych to run behavioral experiments because it is an open source javascript library, based on standard web technologies, and can be used online and offline.\nIn the last years, we started working on a set of tools to help people without coding expertise to create jsPsych experimental protocols (jsPsychMaker), simulate participants (jspsychMonkeys) and standardize and automatize the data preparation and analysis (jsPsychHelpeR).\nOur final goal is to have a big catalog of tasks available to use in the jsPsychMaker repo. Each of the tasks should run with jspsychMonkeys to create virtual participants. And each task will have a sister script in jsPsychHelpeR to fully automate data preparation (re-coding, reversing items, calculating dimensions, etc.)."
-  },
-  {
-    "objectID": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
-    "href": "posts/2023-02-03-jsPsychR/index.html#open-and-reproducible-pipeline",
-    "title": "jsPsychR",
-    "section": "Open and reproducible pipeline",
-    "text": "Open and reproducible pipeline\nTo replicate an experimental protocol from a publication is not trivial. Obels et al. (2020) checked the computational reproducibility of Registered Reports in Psychology. From 62 articles meeting the inclusion criteria, only 21 had both data and code, and could be computationally reproduced. One of the main goals of jsPsychR is to be able to create, share and reproduce an experiment, its data, and data preparation and analysis without any extra effort. If recent calls for Journals to assess computational reproducibility are successful (Lindsay 2023), this should be an unavoidable aspect of researcher’s work soon enough.\nFurthermore, all the components of the pipeline are be Open Source, which allows reviewers, collaborators, etc. to check and run the code. This also makes it accessible to anyone with a computer connected to the internet, eliminating cost constrains.\nWith this system you can create a paradigm, simulate data and prepare data and analysis almost automatically.\nThe system output is standardized, so names of variables and the structure of the data are predictable. Finally, the plots, tables, reports and analysis are reproducible, so you can get everything ready with simulated data, preregister or even better, go for a registered report and just relaunch the data preparation and analysis when the participant’s responses arrive, with a single command.\nAnd if you want to share the final data preparation and analysis project in a Docker container to make sure the future generations will be able to run it without dependency issues, we got you covered."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This list of publications has been automagically generated on 2025-01-20 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile. A copy of the publications can be found in this shared folder."
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2024",
-    "text": "2024\n\nJuan-Pablo Morales, Brenda E. Ryan, Vince Polito, Gorka Navarrete, Mayte Vergara, David Huepe (2024). Can beliefs improve mental health? A dive into resilience during pandemic times in South America, Social Sciences & Humanities Open. https://doi.org/10.1016/j.ssaho.2024.100883\nMiroslav Sirota, Gorka Navarrete, Marie Juanchich (2024). When intuitive Bayesians need to be good readers: The problem-wording effect on Bayesian reasoning, Cognition. NA"
-  },
-  {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2023",
-    "text": "2023\n\nVartanian, O., Lam, T.K., Mandel, D.R., Ann Saint, S., Navarrete, G., Carmichael, O.T., Murray, K., Pillai, S.R., Shankapal, P., Caldwell, J., Berryman, C.E., Karl, J.P., Harris, M., Rood, J.C., Pasiakos, S.M., Rice, E., Duncan, M., Lieberman, H.R. (2023). Effect of exogenous testosterone in the context of energy deficit on risky choice: Behavioural and neural evidence from males, Biological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85143864299&partnerID=MN8TOARS\nGorka Navarrete (2023). jsPsychR-manual, Zenodo. https://zenodo.org/record/8296996"
-  },
-  {
-    "objectID": "publications.html#section-2",
-    "href": "publications.html#section-2",
-    "title": "Publications",
-    "section": "2022",
-    "text": "2022\n\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2022). Differences in regional gray matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, Annals of the New York Academy of Sciences. http://www.scopus.com/inward/record.url?eid=2-s2.0-85123814019&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2022). A Recurring Nightmare: Risk and Protective Factors for Revictimization of Child Sexual Abuse in Chile, Journal of Child Sexual Abuse. http://www.scopus.com/inward/record.url?eid=2-s2.0-85124885806&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-3",
-    "href": "publications.html#section-3",
-    "title": "Publications",
-    "section": "2021",
-    "text": "2021\n\nOshin Vartanian, Gorka Navarrete, Letizia Palumbo, Anjan Chatterjee (2021). Individual differences in preference for architectural interiors, Journal of Environmental Psychology. https://doi.org/10.1016/j.jenvp.2021.101668\nSkov, M., Vartanian, O., Navarrete, G., Modroño, C., Chatterjee, A., Leder, H., Gonzalez-Mora, J.L., Nadal, M. (2021). Differences in regional grey matter volume predict the extent to which openness influences judgments of beauty and pleasantness of interior architectural spaces, bioRxiv. http://www.scopus.com/inward/record.url?eid=2-s2.0-85105425187&partnerID=MN8TOARS\nNeely-Prado, A., van Elk, M., Navarrete, G., Hola, F., Huepe, D. (2021). Social Adaptation in Context: The Differential Role of Religiosity and Self-Esteem in Vulnerable vs. Non-vulnerable Populations – A Registered Report Study, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85120866461&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-4",
-    "href": "publications.html#section-4",
-    "title": "Publications",
-    "section": "2020",
-    "text": "2020\n\nIbanez, A., Santamaria-Garcia, H., Barragan, A.G., Kornhuber, A., Ton, A.M.M., Slachevsky, A., Teixeira, A.L., Meza, B.M.M., Serrano, C.M., Cano, C., Gonzalez, C.A., Gonzalez-Billault, C., Butler, C., Bustin, J., Duran-Aniotz, C., Acosta, D., Matallana, D.L., Acosta-Alvear, D., Trépel, D., Resende, E.D.P.F., de Oliveira, F.F., Ibanez, F., De Felice, F.G., Navarrete, G., Tarnanas, I., Meier, I.B., Smid, J., Llibre-Guerra, J., Llibre-Rodriguez, J.J., Fajersztajn, L., Takada, L.T., Duque, L., de Oliveira, M.O., Bicalho, M.A.C., Behrens, M.I., Pintado-Caipa, M., Parra, M., Wilson, M.Z., De La CruPuebla, M., Custodio, N., Santibanez, R., Serafim, R.B., Tavares, R.M., Escudero, S.D.P., Rodriguez, T.L., Dawson, W., Miller, B.L., Kosik, K.S. (2020). The impact of sars-cov-2 in dementia across latin america: A call for an urgent regional plan and coordinated response, Alzheimer’s and Dementia: Translational Research and Clinical Interventions. http://www.scopus.com/inward/record.url?eid=2-s2.0-85101739367&partnerID=MN8TOARS\nContreras Taibo, L., Huepe Artigas, D., Navarrete García, G. (2020). Magnitude and characteristics of revictimization through child sexual abuse in Chile, Legal and Criminological Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85074329600&partnerID=MN8TOARS\nCoburn, A., Vartanian, O., Kenett, Y.N., Nadal, M., Hartung, F., Hayn-Leichsenring, G., Navarrete, G., González-Mora, J.L., Chatterjee, A. (2020). Psychological and neural responses to architectural interiors, Cortex. http://www.scopus.com/inward/record.url?eid=2-s2.0-85079695640&partnerID=MN8TOARS\n(2020). BayesianReasoning: Plot Positive and Negative Predictive Values for Medical Tests, NA. https://CRAN.R-project.org/package=BayesianReasoning"
-  },
-  {
-    "objectID": "publications.html#section-5",
-    "href": "publications.html#section-5",
-    "title": "Publications",
-    "section": "2019",
-    "text": "2019\n\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Rostrup, N., Skov, M., Corradi, G., Nadal, M. (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts, Psychology of Aesthetics, Creativity, and the Arts. http://www.scopus.com/inward/record.url?eid=2-s2.0-85038242354&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G., Dieckmann, N., Nelson, J. (2019). Editorial: Judgment and decision making under uncertainty: Descriptive, normative, and prescriptive perspectives, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85069513921&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Nicolle, A., González-Mora, J.L., Smith, K.W., Marling, M., Goel, V. (2019). Developmental grey matter changes in superior parietal cortex accompany improved transitive reasoning, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-85054359950&partnerID=MN8TOARS\nDafina Petrova, Guiliana Mas, Gorka Navarrete, Tania Tello Rodriguez, Pedro J. Ortiz, Rocio Garcia-Retamero, Valerio Capraro (2019). Cancer screening risk literacy of physicians in training: An experimental study, PLOS ONE. NA\nMandel DR, Navarrete G, Dieckmann N, Nelson J (2019). Editorial: Judgment and Decision Making Under Uncertainty: Descriptive, Normative, and Prescriptive Perspectives., Frontiers in psychology. http://europepmc.org/abstract/med/31312160\nOshin Vartanian, Gorka Navarrete, Anjan Chatterjee, Lars Brorson Fich, Helmut Leder, Cristián Modroño, Nicolai Rostrup, Martin Skov, Guido Corradi, Marcos Nadal (2019). Preference for curvilinear contour in interior architectural spaces: Evidence from experts and nonexperts., Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000150"
-  },
-  {
-    "objectID": "publications.html#section-6",
-    "href": "publications.html#section-6",
-    "title": "Publications",
-    "section": "2018",
-    "text": "2018\n\nMoshontz, H., Campbell, L., Ebersole, C.R., Ijzerman, H., Urry, H.L., Forscher, P.S., Grahe, J.E., McCarthy, R.J., Musser, E.D., Antfolk, J., Castille, C.M., Evans, T.R., Fiedler, S., Flake, J.K., Forero, D.A., Janssen, S.M.J., Keene, J.R., Protzko, J., Aczel, B., Solas, S.Á., Ansari, D., Awlia, D., Baskin, E., Batres, C., Borras-Guevara, M.L., Brick, C., Chandel, P., Chatard, A., Chopik, W.J., Clarance, D., Coles, N.A., Corker, K.S., Dixson, B.J.W., Dranseika, V., Dunham, Y., Fox, N.W., Gardiner, G., Garrison, S.M., Gill, T., Hahn, A.C., Jaeger, B., Kačmár, P., Kaminski, G., Kanske, P., Kekecs, Z., Kline, M., Koehn, M.A., Kujur, P., Levitan, C.A., Miller, J.K., Okan, C., Olsen, J., Oviedo-Trespalacios, O., Özdoğru, A.A., Pande, B., Parganiha, A., Parveen, N., Pfuhl, G., Pradhan, S., Ropovik, I., Rule, N.O., Saunders, B., Schei, V., Schmidt, K., Singh, M.M., Sirota, M., Steltenpohl, C.N., Stieger, S., Storage, D., Sullivan, G.B., Szabelska, A., Tamnes, C.K., Vadillo, M.A., Valentova, J.V., Vanpaemel, W., Varella, M.A.C., Vergauwe, E., Verschoor, M., Vianello, M., Voracek, M., Williams, G.P., Wilson, J.P., Zickfeld, J.H., Arnal, J.D., Aydin, B., Chen, S.-C., Debruine, L.M., Fernandez, A.M., Horstmann, K.T., Isager, P.M., Jones, B., Kapucu, A., Lin, H., Mensink, M.C., Navarrete, G., Silan, M.A., Chartier, C.R. (2018). The psychological science accelerator: Advancing psychology through a distributed collaborative network, Advances in Methods and Practices in Psychological Science. http://www.scopus.com/inward/record.url?eid=2-s2.0-85116778122&partnerID=MN8TOARS\n(2018). The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network, Advances in Methods and Practices in Psychological Science. http://dx.doi.org/10.1177/2515245918797607\nNeely-Prado, A., Navarrete, G., Huepe, D. (2018). Socio-affective and cognitive predictors of social adaptation in vulnerable contexts, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-85067402501&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-7",
-    "href": "publications.html#section-7",
-    "title": "Publications",
-    "section": "2017",
-    "text": "2017\n\nGoel, V., Navarrete, G., Noveck, I.A., Prado, J. (2017). Editorial: The reasoning brain: The interplay between cognitive neuroscience and theories of reasoning, Frontiers in Human Neuroscience. http://www.scopus.com/inward/record.url?eid=2-s2.0-85010911769&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Sirota, M., Juanchich, M., Huepe, D. (2017). Doctor, what does my positive test mean? From Bayesian textbook tasks to personalized risk communication, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954217464&partnerID=MN8TOARS\nCorreia, R., Navarrete, G. (2017). Social cognition and executive functions as key factors for effective pedagogy in higher education, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-85034645858&partnerID=MN8TOARS\nAlonso Ortega, Gorka Navarrete (2017). Bayesian Hypothesis Testing: An Alternative to Null Hypothesis Significance Testing (NHST) in Psychology and Social Sciences, Bayesian Inference. NA"
-  },
-  {
-    "objectID": "publications.html#section-8",
-    "href": "publications.html#section-8",
-    "title": "Publications",
-    "section": "2016",
-    "text": "2016\n\nFumero, A., Navarrete, G. (2016). Personality and psychological distress: Application of a neural network model,Personalidad y Malestar Psicológico: Aplicación de un Modelo de Redes Neuronales, Revista Iberoamericana de Diagnostico y Evaluacion Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990852236&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-9",
-    "href": "publications.html#section-9",
-    "title": "Publications",
-    "section": "2015",
-    "text": "2015\n\nNavarrete, G., Santamaría, C., Froimovitch, D. (2015). Small samples and evolution: Did the law of small numbers arise as an adaptation to environmental challenges?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84926432662&partnerID=MN8TOARS\nModroño, C., Plata-Bello, J., Zelaya, F., García, S., Galván, I., Marcano, F., Navarrete, G., Casanova, O., Mas, M., González-Mora, J.L. (2015). Enhancing sensorimotor activity by controlling virtual objects with gaze, PLoS ONE. http://www.scopus.com/inward/record.url?eid=2-s2.0-84925799189&partnerID=MN8TOARS\nMandel, D.R., Navarrete, G. (2015). Editorial: Improving Bayesian reasoning: What works and why?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84954204773&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Gonzalez-Mora, J.L., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2015). Architectural design and the brain: Effects of ceiling height and perceived enclosure on beauty judgments and approach-avoidance decisions, Journal of Environmental Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84911884414&partnerID=MN8TOARS\nModroño, C., Plata, J., Hernández, E., Galván, I., García, S., Zelaya, F., Marcano, F., Casanova, Ó., Navarrete, G., Mas, M., González-Mora, J.L. (2015). Enhancing brain activity by controlling virtual objects with the eye, Recent Advances on Using Virtual Reality Technologies for Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-85030252566&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-10",
-    "href": "publications.html#section-10",
-    "title": "Publications",
-    "section": "2014",
-    "text": "2014\n\nLillo-Unglaube, M., Canales-Johnson, A., Navarrete, G., Bravo, C.F. (2014). Toward an experimental account of argumentation: The case of the slippery slope and the ad hominem arguments, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923383078&partnerID=MN8TOARS\nNavarrete, G., Correia, R., Froimovitch, D. (2014). Communicating risk in prenatal screening: The consequences of bayesian misapprehension, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84923362087&partnerID=MN8TOARS\nVartanian, O., Navarrete, G., Chatterjee, A., Fich, L.B., Leder, H., Modroño, C., Nadal, M., Rostrup, N., Skov, M. (2014). Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture, In the Light of Evolution. http://www.scopus.com/inward/record.url?eid=2-s2.0-84990990177&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-11",
-    "href": "publications.html#section-11",
-    "title": "Publications",
-    "section": "2013",
-    "text": "2013\n\nLesage, E., Navarrete, G., de Neys, W. (2013). Evolutionary modules and Bayesian facilitation: The role of general cognitive resources, Thinking and Reasoning. http://www.scopus.com/inward/record.url?eid=2-s2.0-84876119023&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activation of the human mirror neuron system during the observation of the manipulation of virtual tools in the absence of a visible effector limb, Neuroscience Letters. http://www.scopus.com/inward/record.url?eid=2-s2.0-84886259877&partnerID=MN8TOARS\nModroño, C., Navarrete, G., Rodríguez-Hernández, A.F., González-Mora, J.L. (2013). Activating motor cortex by means of virtual tools, Journal of Cyber Therapy and Rehabilitation. http://www.scopus.com/inward/record.url?eid=2-s2.0-84901321505&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-12",
-    "href": "publications.html#section-12",
-    "title": "Publications",
-    "section": "2012",
-    "text": "2012\n\nOrenes, I., Navarrete, G., Beltrán, D., Santamaría, C. (2012). Schizotypal people stick longer to their first choices, Psychiatry Research. http://www.scopus.com/inward/record.url?eid=2-s2.0-84872401714&partnerID=MN8TOARS\nNavarrete, G., Santamaría, C. (2012). Adding possibilities can reduce the Gambler’s Fallacy: A naïve-probability paradox, Journal of Cognitive Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84861325676&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-13",
-    "href": "publications.html#section-13",
-    "title": "Publications",
-    "section": "2011",
-    "text": "2011\n\nNavarrete, G., Santamaría, C. (2011). Ecological rationality and evolution: the mind really works that way?, Frontiers in Psychology. http://www.scopus.com/inward/record.url?eid=2-s2.0-84867118667&partnerID=MN8TOARS\nModroño, C., Rodríguez-Hernández, A.F., Marcano, F., Navarrete, G., Burunat, E., Ferrer, M., Monserrat, R., González-Mora, J.L. (2011). A low cost fMRI-compatible tracking system using the Nintendo Wii remote, Journal of Neuroscience Methods. http://www.scopus.com/inward/record.url?eid=2-s2.0-81055156319&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-14",
-    "href": "publications.html#section-14",
-    "title": "Publications",
-    "section": "2010",
-    "text": "2010\n\nRodríguez-Hernández, A.F., Merino, C., Casanova, O., Modrono, C., Torres, M.Á., Montserrat, R., Navarrete, G., Burunat, E., González-Mora, J.L. (2010). Sensory substitution for visually disabled people: Computer solutions, WSEAS Transactions on Biology and Biomedicine. http://www.scopus.com/inward/record.url?eid=2-s2.0-77950406568&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-15",
-    "href": "publications.html#section-15",
-    "title": "Publications",
-    "section": "2009",
-    "text": "2009\n\nFumero, A., Navarrete, G., Santamaría, C. (2009). La implicación de la confienza interpersonal en los trastornos de la personalidad, Revista Argentina de Clinica Psicologica. http://www.scopus.com/inward/record.url?eid=2-s2.0-70349660268&partnerID=MN8TOARS\nFumero Hernández, A., Santamaría, C., Navarrete, G. (2009). Predisposition to alcohol and drug consumption in schizophrenia-vulnerable people,Predisposición al consumo de alcohol y drogas en personas vulnerables a la esquizofrenia, Revista de Neurologia. http://www.scopus.com/inward/record.url?eid=2-s2.0-69349091702&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "publications.html#section-16",
-    "href": "publications.html#section-16",
-    "title": "Publications",
-    "section": "2003",
-    "text": "2003\n\nRomero, E., Sopena, J.M., Navarrete, G., Alquézar, R. (2003). Feature Selection Forcing Overtraining May Help to Improve Performance, Proceedings of the International Joint Conference on Neural Networks. http://www.scopus.com/inward/record.url?eid=2-s2.0-0141857584&partnerID=MN8TOARS"
-  },
-  {
-    "objectID": "jspsychr.html",
-    "href": "jspsychr.html",
-    "title": "jsPsychR",
-    "section": "",
-    "text": "jsPsychR is a group of open source tools to help create experimental paradigms with jsPsych, simulate participants and standardize the data preparation and analysis.\n\n\n\nWe have three main tools:\n\njsPsychMaker: Create experiments with jsPsych, randomize participants balance between conditions, etc.\njsPsychMonkeys: Release monkeys to a jsPsych experiment using the R package {targets}, docker and {RSelenium}\njsPsychHelpeR: Standardize and automatize data preparation and analysis of jsPsych experiments created with jsPsychMaker\n\nYou can access the jsPsychRManual for more details about the different tools."
-  },
-  {
-    "objectID": "webRtest.html",
-    "href": "webRtest.html",
-    "title": "webR test",
-    "section": "",
-    "text": "Reported issue in https://github.com/r-wasm/webr/issues/357\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\nTest:\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "My undergraduate and postgraduate teaching has been focused in Cognitive Psychology, Neuroscience and Methodology."
-  },
-  {
-    "objectID": "teaching.html#undergraduate-teaching",
-    "href": "teaching.html#undergraduate-teaching",
-    "title": "Teaching",
-    "section": "Undergraduate teaching",
-    "text": "Undergraduate teaching\nUniversidad de La Laguna, España\n2025 – Grado en Psicología: Pensamiento\n2024 – Grado en Psicología: Fundamentos de Psicobiología\n2024 – Grado en Psicología: Trabajos de Fin de Grado\n2024 – Grado en Psicología: Fisiología de la Conducta\n2011 - 2012 – Grado en Psicología: Fundamentos de Metodología II\n2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje\n2011 - 2012 – Venia Docente Grado en Psicología: Pensamiento y Lenguaje\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2016-1, 2016-2, 2017-1, 2018-1, 2019-1 – Licenciatura en Psicología: Neuropsicología\n2017-2, 2018-2, 2019-2 – Licenciatura en Psicología: Aprendizaje\n2016-1, 2017-1 – Licenciatura en Psicología: Psicología experimental: Razonamiento, sesgos y toma de decisiones\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2014 – Licenciatura en Psicología: Neurociencia y Psicologia [90 horas]\nUniversidad Nacional de Educación a Distancia, España\n2009 - 2010 – Grado de Psicología: Fundamentos de investigación en Psicología\n2009 - 2010 – Grado de Psicología: Introducción al análisis de datos en Psicología"
-  },
-  {
-    "objectID": "teaching.html#postgraduate-teaching",
-    "href": "teaching.html#postgraduate-teaching",
-    "title": "Teaching",
-    "section": "Postgraduate teaching",
-    "text": "Postgraduate teaching\nUniversidad Adolfo Ibáñez, Facultad de Psicología, Chile\n2021-1, 2022-1, 2023-1, 2024-1 – Doctorado en Neurociencia y Cognición: Seminario científico. R para la preparación y visualización de datos\n2019-2, 2021-2, 2022-2, 2023-2, 2024-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II\n2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales\n2019-1 – Doctorado en Neurociencia y Cognición: Tutorías\n2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. R para la preparación y visualización de datos\n2016-1 – Magister en Psicología Clínica: Aproximación experimental al estudio del pensamiento y toma de decisiones en población clínica\nUniversidad Diego Portales, Facultad de Psicología, Chile\n2015 - 2016 – Magister en Neurociencia Social: Taller de Investigación II: Proyecto de tesis\n2015 - 2016 – Magister en Neurociencia Social: Nuevos enfoques de la cognición\n2015 - Magister en Neurociencia Social: Neurociencias Cognitivas"
-  },
-  {
-    "objectID": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "href": "teaching.html#r-para-preparación-y-visualización-de-datos-sp",
-    "title": "Teaching",
-    "section": "R para preparación y visualización de datos [SP]",
-    "text": "R para preparación y visualización de datos [SP]\nCurso centrado en el uso de R para la preparación y visualización de datos, además de la generación de reportes reproducibles.\nEl objetivo de este curso es aportar herramientas básicas para trabajar de manera autónoma con R y RStudio para el proceso de importación, transformación, visualización y reporte de datos.\nAl finalizar el curso deberíamos ser capaces de:\n\nImportar archivos de datos, transformar los datos, crear nuevas variables.\nRealizar análisis de datos exploratorios, visualizar distribuciones y comparar grupos.\nGenerar reportes reproducibles con RMarkdown.\n\nPuedes acceder aquí a los materiales completos del curso."
   }
 ]
