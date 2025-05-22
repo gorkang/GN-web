@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Gorka Navarrete",
     "section": "",
-    "text": "My main research focus is related to Bayesian reasoning, risk communication and medical decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunct professor at Universidad Adolfo Ibañez in Chile.\nBesides my research lines, I love Open science and Meta science. I truly believe that science should be as open and reproducible as possible. Also, I love RStats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
+    "text": "My main research focus is related to Bayesian reasoning, risk communication and medical decision-making, as well as various things such as heuristics and biases and the neural basis of reasoning. I am also part of an international network in the perception of beauty in architectural contexts.\nI obtained my PhD in Cognitive Neuroscience in the Universidad de La Laguna (Spain). Worked as a postdoctoral fellow in the University of Hull (UK), Universidad de La Laguna (Spain) and York University (Canada). Currently I am an Adjunct professor at Universidad Adolfo Ibañez in Chile and a substitute professor at Universidad de La Laguna, Spain.\nBesides my research lines, I love Open science and Meta science. I truly believe that science should be as open and reproducible as possible. Also, I love RStats and creating tools to make researcher’s life easier. See some of my coding work in my Github profile."
   },
   {
     "objectID": "presentations.html",
@@ -123,7 +123,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "This list of publications has been automagically generated on 2025-04-10 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile. A copy of the publications can be found in this shared folder."
+    "text": "This list of publications has been automagically generated on 2025-05-22 using the {rorcid} package and a bit of R code. You can directly check my ORCID profile. A copy of the publications can be found in this shared folder."
   },
   {
     "objectID": "publications.html#section",
