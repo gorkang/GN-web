@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Teaching – Gorka Navarrete</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a2b9afbb3b73c0082c2190eb21f01227.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c4c41c70c06b8b636f6477b101ef50a0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -185,7 +188,9 @@ gtag('config', 'G-J17YNM67JE', { 'anonymize_ip': true});
 <section id="undergraduate-teaching" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-teaching">Undergraduate teaching</h2>
 <p><strong>Universidad de La Laguna, España</strong></p>
-<p>2025 – Grado en Psicología: Pensamiento</p>
+<p>2025 - 2026 – Grado en Psicología: Pensamiento</p>
+<p>2026 – Grado en Psicología: Motivación y Emoción</p>
+<p>2026 – Grado en Psicología: POAT</p>
 <p>2024 – Grado en Psicología: Fundamentos de Psicobiología</p>
 <p>2024 – Grado en Psicología: Trabajos de Fin de Grado</p>
 <p>2024 – Grado en Psicología: Fisiología de la Conducta</p>
@@ -206,7 +211,7 @@ gtag('config', 'G-J17YNM67JE', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="postgraduate-teaching">Postgraduate teaching</h2>
 <p><strong>Universidad Adolfo Ibáñez, Facultad de Psicología, Chile</strong></p>
 <p>2021-1, 2022-1, 2023-1, 2024-1, 2025-1 – Doctorado en Neurociencia y Cognición: Seminario científico. <a href="https://github.com/gorkang/R_preparacion_visualizacion_datos">R para la preparación y visualización de datos</a></p>
-<p>2019-2, 2021-2, 2022-2, 2023-2, 2024-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II</p>
+<p>2019-2, 2021-2, 2022-2, 2023-2, 2024-2, 2025-2 – Doctorado en Neurociencia y Cognición: Investigación en Neurociencia Social y Ciencias Cognitivas II</p>
 <p>2019-2 – Doctorado en Neurociencia y Cognición: Diseños experimentales</p>
 <p>2019-1 – Doctorado en Neurociencia y Cognición: Tutorías</p>
 <p>2019-1 – Doctorado en Neurociencia y Cognición: Seminario Metodológico. <a href="https://github.com/gorkang/R_preparacion_visualizacion_datos">R para la preparación y visualización de datos</a></p>
@@ -283,13 +288,14 @@ gtag('config', 'G-J17YNM67JE', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

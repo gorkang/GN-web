@@ -9,7 +9,7 @@
 <link>https://gorkang.github.io/GN-web/posts.html</link>
 <atom:link href="https://gorkang.github.io/GN-web/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Tue, 26 Sep 2023 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Cancer increase in young adults?</title>
@@ -66,9 +66,9 @@
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-zhao2023b" class="csl-entry">
-Zhao, Jianhui, Liying Xu, Jing Sun, Mingyang Song, Lijuan Wang, Shuai Yuan, Yingshuang Zhu, et al. 2023. <span>“Global Trends in Incidence, Death, Burden and Risk Factors of Early-Onset Cancer from 1990 to 2019.”</span> <em>BMJ Oncology</em> 2 (1): e000049. <a href="https://doi.org/10.1136/bmjonc-2023-000049">https://doi.org/10.1136/bmjonc-2023-000049</a>.
+Zhao, Jianhui, Liying Xu, Jing Sun, et al. 2023. <span>“Global Trends in Incidence, Death, Burden and Risk Factors of Early-Onset Cancer from 1990 to 2019.”</span> <em>BMJ Oncology</em> 2 (1): e000049. <a href="https://doi.org/10.1136/bmjonc-2023-000049">https://doi.org/10.1136/bmjonc-2023-000049</a>.
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarrete2023,
   author = {Navarrete, Gorka},
@@ -79,7 +79,7 @@ Zhao, Jianhui, Liying Xu, Jing Sun, Mingyang Song, Lijuan Wang, Shuai Yuan, Ying
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-navarrete2023" class="csl-entry quarto-appendix-citeas">
 Navarrete, Gorka. 2023. <span>“Cancer Increase in Young Adults?”</span>
-September 27, 2023. <a href="https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/">https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/</a>.
+September 27. <a href="https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/">https://gorkang.github.io/GN-web/posts/2023-09-27-incidence_mortality/</a>.
 </div></div></section></div> ]]></description>
   <category>Cancer</category>
   <category>Bayes</category>
@@ -120,7 +120,7 @@ September 27, 2023. <a href="https://gorkang.github.io/GN-web/posts/2023-09-27-i
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-lindsay2023m" class="csl-entry">
 Lindsay, D. Stephen. 2023. <span>“A <span>Plea</span> to <span>Psychology Professional Societies</span> That <span>Publish Journals</span>: <span>Assess Computational Reproducibility</span>.”</span> <em>Meta-Psychology</em> 7 (September). <a href="https://doi.org/10.15626/MP.2023.4020">https://doi.org/10.15626/MP.2023.4020</a>.
 </div>
@@ -135,7 +135,7 @@ Obels, Pepijn, Daniël Lakens, Nicholas A Coles, Jaroslav Gottfried, and Seth A 
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-navarrete2023" class="csl-entry quarto-appendix-citeas">
-Navarrete, Gorka. 2023. <span>“jsPsychR.”</span> February 3, 2023. <a href="https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/">https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/</a>.
+Navarrete, Gorka. 2023. <span>“jsPsychR.”</span> February 3. <a href="https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/">https://gorkang.github.io/GN-web/posts/2023-02-03-jsPsychR/</a>.
 </div></div></section></div> ]]></description>
   <category>jsPsych</category>
   <category>Metascience</category>
