@@ -5,8 +5,8 @@ author:
   - name: Gorka Navarrete
     url: https://gorkang.github.io/GN-web/
     orcid: 0000-0001-7678-8656
-    affiliation: Adjunt professor, UAI
-    affiliation-url: https://github.com/gorkang/jsPsychR-manual
+    affiliation: Professor, ULL
+    affiliation-url: https://portalciencia.ull.es/investigadores/1244736/detalle
 date: 2023-02-03
 categories: [jsPsych, Metascience, rstats] # self-defined categories
 citation: 
